@@ -1,849 +1,831 @@
-Uyathanda.
-Ngiyathanda.
-Siyathanda.
-Ngiyasiza.
-Uyathenga.
-Siyafunda.
-Uyabona.
-Niyakhuluma.
-Bayabiza.
-Bayafunda.
-Bayakhuluma.
-Ngiyathenga.
-Niyabona.
-Uyabiza.
-LESSON SECOND.
-Siyasiza.
-Uyabuza.
-Ngiyabusa.
-Bayabiza.
-Niyabhaca.  You all are hiding.
-Bayabutha.
-Siyabona. 
-Ngiyabuya.
-Niyabhema. 
-Ngiyalinga. 
-Siyadonsa. 
-Uyathanda. 
-Bayakhuluma. 
-Bayadla.
-Niyafunda.
-Siyasebenza.
-Uyadinga ukudonsa.
-LESSON THREE
-Ngiyathenga.
-Siyathengisa.
-Uyasebenza.
-Siyabusa.
-Bayakhuluma.
-Ngiyathanda.
-Niyalima.
-Siyahlakula.
-Ngiyaloba.  I am writing.
-Uyafundisa. She/he is teaching.
-Siyabhala.
-Bayagijima.
-Uyakhala.
-Ngiyashaya.
-Siyathengisa.
-Bayabonga.  They are thanking.
-Uyamba. She/he is digging.
-LESSON FOURTH.
-Sifuna ukwazi manje.
-Nithanda ukubonga.
-Bayakhala kakhulu manje.
-Ngiyakhuluma futhi.
-Uyafuna ukuhlakula manje.
-Uyathanda ukufunda kahle.
-Bayahlupha kakhulu.
-LESSON FIFTH.
-Ngiyambona.   I see him.
-Siyanibiza. We call you.
-Bayanifuna.
-Siyambona.
-Ngiyambiza.
-Uyanihleka.
-Uyasithanda.
-Ngiyambamba.
-Niyangisiza.
-Uyakuhleba.
-Ngiyanikhulekela. I am praying for you all.
+Ngiyakukholwa.
 Bayanibonga.
-Siyabhaca.
-Ngiyanifundisa.
-Uyasishaya.
-Ngiyabageza.
-Siyambuyisa.
-Uyafuna ukufunda.
-Niyabhema kakhulu manje.
-Siyakhuluma futhi.
-Ngidonsa kamandla.
-Ngiyakubonga manje.
-LESSON SIXTH.
-Niyamthanda na?   Do you like him/her?
-Ngiyakusiza na? Am I helping you? 
-Bayanifuna na?    Are they looking for you?
-Niyangihleka na?    Are you laughing at me? 
-Uyambona na?    Do you see it?
-Ngiyahleba na?
-Uyagijima na?
-Ufunda kahle na?
-Siyahlupha na?
-Niyasebenza lapha na?
-Uyambona laphaya?
-Ehhe, siyambona lapho.
-Bayangibiza na?
-Yebo, bayakubiza futhi.
-Bagijima kahle na?
-Yebo, bagijima kahle kakhulu.
-Niyafundisa namhlanje impela.
-Niyabasiza kakhulu na?
-Bayangikhulekela futhi manje?
-Ehhe, bayakukhulekela kakhulu.
-Uyahleka.   He laughs.
-Umlungu uyathula.    The white man is silent.
-Omiyane bayahlupha.    The mosquitoes are troublesome.
-Bayahleba.  They slander.
-Umfazi uyagijima.  The woman runs.
-Abafana bayamhlupha umfundisi. The boys annoy the teacher.
-Umfazi uyambiza umntwana.   The woman calls the child.
-LESSON EIGHTH.
-Abantwana bathanda ukuhlala kakhulu.
-Bayangibiza manje.
-Ngiyagijima.
-Abafana bayamhlupha umlimi.
-Uyajama kakhulu.
-Abafazi bayahlakula manje, kodwa abantwana bayafunda.
-Abafo bayabafuna odade namuhla.
-Ngiyabasiza abazalwane. I am asking the congregation members.
-Abelungu babulala omiyane.
-Umpheki uyagula kakhulu futhi namhlanje.
-Sizombona umlungu.
-Abantu bathule manje.
-Uyafunda kahle futhi.
-Umfundisi uthanda ukubafundisa abantwana.
-Ngiyambona laphaya.
-Uyambona lapho na?
-Yebo, kodwa abafazi bayabuya futhi.
-Ufakazi uyangihleba.
-Abantu bayangihleka manje.
-Uyajama na?
-Ehhe, uyajama kakhulu.
-LESSON NINTH.
-Umuntu ukhona.  The person is here.
-Umfana muhle.   The boy is nice.
-Umfazi mfushane.  The woman is short.
-Umfazi ukhona na?   Is the woman here?
-Ehhe, ukhona.    Yes, she is here.
-Omiyane bakhona lapha.
-Bayangihlupha kakhulu.
-Ufakazi uyakhuluma manje futhi.
-Umntwana muhle.
-Abantu baningi namhlanje.
-Abafana bayabahleka abafazi.
-Niyangihleka futhi?
-Chabo, siyathula.
-Umlimi uyalima namuhla.
-Umzalwane ukhona na?
-Uyabhaca manje.
-Abantwana babuka ummese. #TODO ummese and omese
-Umlungu uyagula kakhulu.
-Abantwana bafuna umfundisi
-Bayathanda ukufunda impela.
-Umfana mfushane na?
-Cha, mude impela.
-Ngiyanibiza.
-Uyasibiza na?
-Imbala uyathanda abantwana na?
-Yebo, ngiyabathanda kakhulu.
-Umntwana muhle, kodwa abafana babi.
-Abafazi baqotho na?
-Yebo, kodwa abantu lapha babi impela.
-Umuntu mubi.
-Imbala abantu bahle na?
-Yebo, bahle kakhulu impela lapha.
-Umuntu umnyama.
-Umfana muhle.
-Uyabasiza abafazi lapho kakhulu.
-#Amafuma banzi kakhulu.
-Izulu limnyama manje.
-UZulu uyalala.
-Umlungu uyambiza.
-Ivila liyahlala.
-Amaxhegu ayakhuluma. #amaxhegu is an older, amakhehla is more modern
-Ikati likhona manje.
-#Liyamkulu.
-Liyagijima kahle impela.
-Ilanga libalele namhlanje.
+Imithi iyababa impela.
+Ngifuna ubisi masinyane.
+Siyathula.
+Zithezeni izinkuni futhi.
+Ubuso buhle.
+Ungalethi ihhashi manje.
 Ifasitela libanzi.
-Isango libanzi futhi.
-Umntwana mfushane kakhulu.
-Uyakhala kakhulu.
-#Umfazi uyamshaya manje.
-Ilanga liyaphuma.   The sun is rising.
-Uyawabuka amafasitela?  Are you looking at the windows?
+Abantu bafike nini?
+Ngiyalinga.
+Into imbi.
+Umuntu ukhulume kancane.
+Ngikutshelile ukuthi fulathela.
+Ngizoza ukuzosebenza ngomhlomunye.
+Fundani.
+Imbala uyathanda abantwana na?
+Uyobhala.
+Singashaya ucingo manje na?
+Sizothanda.
+Itiye libi kodwa ikhofi limnandi.
+Aphi amehlo akho.
+Ungahlebi abantu ngamabomu.
 Ehhe, umfana uyawasula kahle.
-AmaBhunu athanda ikhofi.
-Amatshe maningi laphaya.
-Itshe lapho likhulu.
-Nithengisa amageja lapha?
-Sizolisula itafula. We are going to wipe the table.
-Ngiyalifuna ihhashi manje.
-Siyaliletha khona manje. #TODO separate khona and manje
-Itiye limnandi.
-Amatafula lapho makhulu impela. 
-Amazinyo mancinyane.    The teeth are very small.
-Igama lincane.  The word is small.
-Amatafula mancinyane.   The tables are very small.
-Amafasitela maningi.    There are many windows. 
-#Amazwe mabanzi. The lands are wide. doesn't work with banzi
-Amazinyo makhulu.   The teeth are big. 
-Itshe likhulu.  The stone is big
-LESSON ELEVENTH.
-Usebenza ngamandla.
-Ngihamba nehhashi. I walk with the horse.
-Ngihamba ngehhashi.    I am going on horseback.
-Ngiyahamba, nginehhashi.    I am walking, I have a horse.
-Sihamba sinamasi.
-Ninamafutha na?
-Nginebhantshi.
-Unomntwana.
-Banamaqanda.    They have eggs.
-Siyahamba mạnje, sinehhashi.    We are going now, we have a horse.
-Ubuya namahhashi.   You are returning with a horse.
-Ufakazi uyaxoka impela. The witness stirs up trouble/lies a lot.
-Ngiyawaletha amayembe namabhantshi. I bring shirts and coats.
-Nihamba ngamahhashi namuhla. #TODO check for namahla > namuhla
-Amaxhegu ayakhuluma kakhulu laphaya, kodwa abafazi lapha bathule.
-Amasele akhona, ngiyawabona manje.
-Ngivumela abafana ukuhamba namhlanje.
-Nginebhantshi nebhulukwe.
-Bayathanda ukuhamba ngamahhashi impela.
-Ningihlupha ngamabomu.
-Amanga!
-Siyahleka.
-Siyathanda ukuhlabelela kakhulu.
-Abantu bakhona lapha manje?
-Ehhe, bakhona.
-Ihhashi likhona futhi?
-Yebo, likhona lapha.
 Ikati libi na?
-Yebo, libi impela.
-Ngiyalithanda igolide.
-LESSON TWELFTH.
+Uzofa khona manje.
+Utshwala bukhona.
+Nithini na?
+Biza.
+Ngiyakholwa ukuthi ukhona namhlanje.
+Yebo, ukhona.
+Ngifike izolo.
+Qaphela manje, mfana.
+Umntwana mfushane kakhulu.
+Ngizobuya lapha kusasa.
+Bayakhuluma.
+Ungahleki amakhehla.
+Izinja zikhonkothile.
+Izimpaphe ziphi?
+Ngithenga ngemali.
+Usebenze kahle impela.
+Zilethe izitsha.
+Umntwana muhle.
+Bhekani.
+Ufakazi uyakhuluma manje futhi.
+Yebo, Nkosi.
+Izinsizwa ziningi.
+AmaBhunu athanda ikhofi.
+Ukhona manje.
+Ngingathanda.
+Konje abafana babi ngempela na?
+Imilomo ibanzi.
+Niyafuna ukusebenza na?
+Ngingahamba na?
+Umfazi uyambiza umntwana.
+Ijuba likhona phezu kophahla.
 Imithi miningi
-Iluhlaza impela.
-Siyawuthatha umphongolo namhlanje.  We are taking the barrel today.
-Uyamfuna umhlobo manje? Do you a relative now?
-Yebo, ngiyamfuna namuhla.   Yes I want him/her today.
-Sifuna imiphongolo.
-Imigodi ibanzi kakhulu.
-Ngiyawufuna impela umsebenzi.   I really want a job.
-Umzimba umnyama.    The body is black.
-Umhlobo uyajama impela. The relative is really staring.
+Yebo, bakhona.
+Uyakwazi ukufunda?
+Ngiyothanda.
+Umhlobo ufikile izolo.
+Lethani isinkwa.
+Ningazibuki izinkanyezi, bafana.
+Uyabhaca manje.
+Umfazi mfushane.
+Ngiyakubonga manje.
+Msebenzi, awuthande umsebenzi.
+Abantu balele manje.
+Ukupha kubalulekile, bantu.
+Unomntwana.
+Woza uhlakule manje.
+Uyamfuna umhlobo manje?
+Angisize amakhehla nezalukazi.
+UZulu liwathengisile amahembe.
+Nithengisa amageja lapha?
+Umnumzana ukhona.
+Ufundela ukuba yini?
+Niyokhuleka.
+Ngiyobabiza abafazi nezalukazi nezintombi.
+Bayabiza.
+Uyasebenza na?
+Letha isinkwa.
+Baphi abantu?
+Uyagula na?
+Amasele akhona, ngiyawabona manje.
+Siyasebenza.
+Bazohlala lapha ukuba bafunde kahle.
+Ubuthakathaka babuhlupha.
+Funda kahle.
+Umuthi omkhulu ukhona lapha.
+Umuntu uyabhema.
+Qaphela!
+Yebo, siyafuna impela.
+Ngiyaxolisa ukuthatha isikhathi sakho.
+Ubuthakathi bunamandla.
+Banemali.
+Siyabhala.
+Ngizomsiza ukuba asebenze ngamandla.
+Hambani khona manje.
+Abafo bayabafuna odade namuhla.
+Niyangihleka futhi?
+Izigqoko zimbi kodwa izingubo zinhle.
+Inkanyezi iyokhanya.
+Ngiyalifuna ihhashi manje.
+Ungahlebi abantu.
+Amazinyo makhulu.
+Umlungu uyathula.
+Imikhumbi iyawadabula amanzi.
+Sizombona umlungu.
+Umuntu uzofika nini?
+Suka!
+Yebo, libi impela.
+Abantu abathule namhlanje.
+Uyobopha.
+Sizohlala lapha, sifunde.
+Abantwana balobe kahle kakhulu.
+Ukudla kwakumnandi.
+Siyathanda ukuhlabelela kakhulu.
+Abazali bakho bayasebenza?
+Uxolo.
+Siyakhuluma futhi.
+Ubani olapho?
+Ziningi izihlobo na?
+Mina angazi.
+Bayawudla ummbila.
+Hambani kahle.
+Ngiyaloba.
+Abanamali.
+Le nkosikazi inamandla.
+Bamba.
+Itiye limnandi.
+Indlela imbi.
+Hamba.
+Unyawo luphi?
+Uyasibiza na?
+Ziphi manje?
+Amasela ayontshontsha.
+Isifo sibi.
+Lukhona.
+Izintaba zinde.
+Ehhe, siyambona lapho.
+Imvu mfushane.
+Ikhaya liphi?
+Akahlakule.
+Awuthande.
+Awungene, Nkosi.
+Uyafuna ukuhleka manje?
+Ucabanga ukuthi uzosebenzaphi?
+Ubumpofu bukhona.
+Uyasithanda.
+Umuthi ubaba kakhulu.
+Izinyoka ziningi laphaya.
+Vala amafasitela.
+Izitsha ziningi lapha.
+Itshe likhulu.
+Ukwesaba kulula.
+Bayangikhulekela futhi manje?
+AmaZulu maningi, akhona lapho.
+Abafazi bagijimelani?
+Insimbi ilukhuni futhi.
+Imizi emikhulu miningi laphaya.
+Akasize abantwana.
+Waletheni khona manje.
+Bafike izolo.
+Umuntu mude.
+Uyabasiza abafazi lapho kakhulu.
+Isando sifushane.
+Ngizwa ubuhlungu.
+Zikhona manje izitsha eziluhlaza.
+Niyabhema kakhulu manje.
+Sikubongile.
+Abafana, nezinsizwa, namadoda bahambile manje.
+Mtshele angathengi amazambane namuhla.
+Iphi indawo?
+Hambani.
+Uyambona lapho na?
+Ngimbongile.
+Umuntu uvelaphi?
+Zilethe izinkwa.
+Abautu bahleka umfundisi.
+Ngiyalithanda igolide.
+Bayabutha.
+Fulathela masinyane.
+Niyakhuleka.
+Konje nibuyile kuthangi?
+Ziphi izinyoka manje?
+Hambahamba kancane.
+Zisule izihlalo futhi.
+Babizeni abantwana, bafana.
+Ngiyotshela umfazi.
+Sukani bo, bafana, ningalali lapho!
+Isitebele lapho sibanzi.
+Amatshe alukhuni kakhulu.
+Ngelinye ilanga ngazifunda izincwadi.
+Ungabizi abafana, asihambe manje.
+Umfana mfushane na?
+Musani ukuhlala lapha, hambani khona manje.
+Ngiyaqinisa, Nkosi.
+Musani ukuthenga.
+Izulu liyabuyisa.
+Siyothula.
+Uyabopha.
+Umntwana muhle, kodwa abafana babi.
+Usebenzaphi?
+Hamba kahle.
+Ubuya namahhashi.
+Yebo, bagijima kahle kakhulu.
+Sibone abantu phesheya kwezintaba.
+Luphi?
+Abantu abamnyama bakhona manje.
+Ummbila uluhlaza.
+Uyakuhleba.
+Ummbila mubi.
+Ngizothenga izingubo ngemali namuhla.
+Ngiyabuya.
+Bayababona.
+Ungenzi ikhofi.
+Amadoda athanda utshwala.
+Insizwa inesigqoko esimnyama, nebhantshi elimhlophe.
+Umudwa mfushane.
+Izinsuku ziningi.
+Ngiyahleba na?
+Umlimi uyalima namuhla.
+Indlu inkulu kakhulu.
+Musa ukukhuluma manje.
+Ngiyobona.
+Abafana bayabahleka abafazi.
+Ufakazi uyangihleba.
+Ngiyagijima.
+Uthanda lokhu yini na?
+Abantu ababi bahambile izolo.
+Umfundisi ujamile.
+Ufunani?
+Shaya insimbi.
+Isalukazi sibiza umfana.
+Ngizohamba khona manje.
+Izivalo zinde.
+Bayahlakula.
+Akanankomo na?
+Imifanekiso ikhona.
+Usekhaya na?
+Abantwana bathanda ukuhlala kakhulu.
+Bayohlakula.
+Kwenzenjani?
+Ukuphekile na?
+Sala ngaphandle.
+Izinsizwa zasebenza.
+Nganeno kwentaba izimvu ziningi impela.
+Itiye linamandla kakhulu.
+Uyabuza.
+Niyaphi?
+Bahlabelelile kakhulu phezulu futhi.
+Izimvu namahhashi nezinkabi ziyagijima.
+Ligijima ngokushesha.
+Uyagijima na?
+Niyabuka nina?
+Hlala phansi manje.
+Imithi mide lapho.
+Umuntu ukhona.
+Yenza kahle.
+Bayathanda ukuhamba ngamahhashi impela.
+Phuma ubambe inkukhu, uyibulale.
+Ungayibhemi insangu.
+Niyangisiza.
+Izihlalo zimfushane kodwa zinhle impela.
+Sikhuluma ngolimi.
+Ekuseni ngiwabonile amaselesele.
+Khulumani nihlale manje.
 Siyayiletha imimese manje.
+Uhlalaphi?
+Imigodi ibanzi kakhulu.
+Woza manje.
+Usebenzaphi?
+Umfana mfushane kunendoda.
+Ngiyawashaya amahhashi nezimbongolo nenja.
+Izimbongolo ziypkhonya.
+Ungasebenzi.
+Uyawabuka amafasitela?
+Izinhlansi zinkulu.
+Niyangihlupha namhula kakhulu, bantwana.
+Abantu bathule manje.
+Amaxhegu ayakhuluma.
+Umfana ubuye nini na?
+Umfazi uyaziletha izimpaphe nezimpondo.
+Ngiyabageza.
+Uyajama na?
+Angathanda.
+Amadoda akhona.
+Konje ubuthi bukhona na?
+Hlala lapha, ubhale, ufunde.
+Siyahamba manje, asihambe ngamahhashi.
+Unamanga.
+Sinemilomo.
+Thathani imimese.
+INkosi iyabasiza.
+Abantu banquma izintango ngamandla.
+Ngiyafuna ukuzithenga.
+Unani na?
+Yebo, ngiyamazi impela.
+Siyanibiza.
+Bayahleba.
+Nihambaphi manje?
+Ingonyama nezinkunzi, nezimbongolo kuyazulazula.
+Asibashaye.
+Ulwandle lubanzi kakhulu.
+Babase umlilo lapha, funa bagodole ekuseni.
+Ngiyakhuluma futhi.
+Ngiwabonile lapho.
+Ihhashi elibi lagijima.
+Sizani ixhegu.
+Imifula iphi?
+Konje uhambile na?
+Letha izinto lapha kusasa.
+Ngiyanikhulekela.
+Izinwele zimpunga.
+Siyahleka.
+Balele impela.
+Uyamazi na?
+Waletheni amabhantshi namabhulukwe.
+Umuntu mubi, unamanga njalo njalo.
+Iminwe mide.
+Umcamelo wawulukhuni.
+Uyathanda.
+Niyafunda.
+Nebala kunjalo.
+Akunacala.
+Uyafuna ukuthenga izinto?
+Akathande.
+Imithi miningi.
+Amazinyo mancinyane.
+Niyobhala.
+Baphi?
+Uvelaphi?
+Niyokwazi ngomuso, bantwana.
+Umfazi waziletha izinti eziningi.
+Nxese.
+Ngiyalifuna ikati.
+Banamanga.
+Umfazi ukhona na?
+Izintombi zibulethile, bukhona manje.
+Akanamntwana.
+Unebhantshi nebhulukwe nehembe.
+Nithanda ukubonga.
+Hamba-ke manje.
+Ubani igama lakho?
+Siyathengisa.
+Sizofika.
+Ukhuluma ngami.
+Abafazi bacela inyama emnandi manje.
+Niyabasiza kakhulu na?
+Isitsha sikhona.
+Ngiyawufuna impela umsebenzi.
+Uyakhala.
+Musa ukuhlupha umntwana.
+Ngiyawaletha manje.
+Niyangihleka na?
+Uqamba amanga impela.
+Cha, mude impela.
+Siyadonsa.
+Akanankomo.
+Bayangibiza na?
+Abantwana bangathanda izithelo.
+Awulethe isinkwa.
+Zithenge izibani futhi.
+Abantu baphi?
+Umfula ubanzi kakhulu.
+Ikati likhona manje.
+Sifuna ukwazi manje.
+Umuthi mude.
 Imizi miningi.
 Ikhona laphaya.
-Bayawudla ummbila.
-Imikhumbi iyawadabula amanzi.   The ships is travels through water.
-Bamba umgodi lapho. They are digging the hole there.
-Imigodi lapha miningi.  There are many holes here.
-Imisundu ikhona, miningi kakhulu.   There are very many earthworms here.
-Unomutsha.  He has a loincloth.
-Sinemilomo. We have mouths/We speak a lot.
-Imitsha ikhona. The loincloths are here.
-Umfula ubanzi kakhulu. 
-Umoya unamandla.
-Umkhuba mubi impela.    The habit is really bad.
-Umuthi mude.    The tree is tall.
-Imilenze miningi, kodwa mifushane kakhulu. There are many legs, but they are very short.
-Umuntu mude.    The person is tall.
-Umfazi mfushane. The woman is short.
-Umudwa mfushane.  The line is short.
-Umutsha muhle.  The loincloth is nice.
-Iminwe mide.    The fingers are long.
-Imilomo ibanzi.    The mouths are wide.
-Imigodi mikhulu. The holes are big.
-Imithi miningi.  The trees are numerous.
-Amahhashi maningi.   The horses are numerous.
-Amatshe makhulu. The stones are large.
-Abantu baningi.  The people are numerous.
-Imithetho mibi. The laws are wicked (bad).
-Sebenzani.
-Bhekani.
-Fundani.
-Bheka.
-Funda.
-Ungasebenzi.    Do not work.
-Ningasebenzi.   Do not work
-Ungabheki.  Do not look,
-Ningabheki. Do not look.
-Ungafundi.  Do not read.
-Ningafundi. Do not read.
-Angithande. Let me love.
-Asithande.  Let us love.
-Awuthande.  Let you love.
-Anithande.  Let you all love.
-Akathande.  Let him/her love.
-Abathande.  Let them love.
-Bamba.
-Biza.
-Hamba.
-Bambani.
-Bizani.
-Hambani.
-Ungathandi. You may not love.
-Ningathengi.    You may not buy.
-Musa ukuhlupa umntwana. Don't annoy the child.
-Musani ukuhleba!    Do not gossip! #switch hleba to gossip
-Thula ke.   Be quiet, please.
-Thulani ke. Be quiet, please.
-Thula bo.   Be quiet at once.
-Thulani bo.  Be quiet at once.
-Ngiyalifuna ikati.
-Amakati akhona.
-Ngiyawaletha manje.
-Ungathengi amahhashi, thenga indawo.    Don't buy horses, buy land.
-AmaZulu maningi, akhona lapho.
-Ningahluphi umhlobo.    Don't bother the relative.
-Ungahleki amaxhegu. Don't laugh at the old men.
-Letha amanzi khona manje.
-Ungathathi amatafula.
-Abafana basebenza ngamandla impela.
-Abautu bahleka umfundisi.
-Ningahleki, thulani bo.
-Lalela imithetho nemikhuba emihle.    Listen to the rules and customs.
-Biza umfokazana.    Call the man.
-Musani ukuduba amadoda. Don't boycott the men.
-Ungabizi abafana, asihambe manje.   Don't call the boys, let's go now.
-Akalethe ihhashi masinyane. He/she must bring the horse quickly.
-Sizani ixhegu.  Help the old man.
-Hamba-ke manje. Go now.
-Ufuna umutsha na? Do you want a loincloth?
-Yebo, ngifuna umutsha namhlanje.    Yes, I want a loincloth today.
-Musani ukuthenga ummbila, siyathenga manje.
-Ningadwebi imidwa lapho.    Don't draw the lines there.
-Ungahlebi abantu.   Do not gossip about people.
-Funda kahle.    Read well.
-Uyabhema kakhulu, ungabhemi. You smoke a lot, do not smoke.
-Ihhashi linamandla.
-Siyahamba manje, asihambe ngamahhashi.
-Siyabuya, sinamahhashi. We are returning, we have horses.
-Thathani imimese.   Take the knives.
-Imimese ikhona na?  Are the knives here?
-Musa ukukhuluma manje.  Don't speak now.
-Umlungu uyajama kakhulu.    The white person stares/freezes a lot.
-Imithi iyababa impela.    The medicines are very sour.
-Imilenze mincane.   The legs are small.
-Niyasihlupha, ningahluphi umfundisi futhi.  You are bothering us, don't trouble the priest too.
-Hlala phansi manje. Sit down now.
-Bayababona. They are seeing them.
-Mina angazi.    I don't know.
-Aphi amehlo akho.   Look at what you are doing.
-Wena uyisilima.   You are a foolish person.
-Letha ipuleti, musa ukuletha inkomishi.    Bring the plate, don't bring the cup.
-LESSON FOURTEENTH.
-Usebenzaphi?    Where do you work?
-Baphi?  Where are they?
-Ihhashi liphi?  Where is the horse?
-Uphi umutsha? Where is the native-dress?
-Aphi amaxhegu?  Where are the old men?
-Uyasebenza na?   Are you working?
-Usebenzaphi?    Where are you working?
-Ufunani?    What do you want?
-Nibonani?   What do you see?
-Abelungu bacelani?  What are the white people requesting?
-Umfana ubuye nini na? When did the boy return?
-Abantu bafike nini?    When did the people arrive?
-Abafazi bagijimelani? Why are the women running?
-Abalimi balimelani namhlanje?  Why are the farmers ploughing today?
-Bahlekani?  What are they laughing at?
-Umfundisi ufike izolo.
-Ungalethi ihhashi manje.
-Ekuseni ngiwabonile amaselesele.
-Ngimbongile umfana kakhulu ekuseni.
-Ungahlebi abantu ngamabomu.
-Umuntu uyabhema.
-UZulu liwathengisile amahembe.  Zulu bought shirts.
-Ungihlebile izolo.  He/she gossiped about me yesterday.
-Pheka amaqanda. Cook the eggs.
-Ungenzi ikhofi.   Don't make the coffee.
-Sebenza bo! Work!
-Sidonse amahhashi.  We dragged the horses.
-Ngiwabonile lapho.  I saw them there.
-Ningalali manje, 'bafana.   Don't sleep now, boys.
-Ungawasizi amavila. Don't help the lazy people.
-Siza amaxhegu nabafokazana. Help the old men and the young men.
-Abantwana bahlabelela kakhulu laphaya.  The children are singing loudly over there.
-Bahlabelelile kakhulu phezulu futhi.
-Ngihambe manje? Can I leave now?
-Hambani khona manje.   Go now.
-Abantu abathule namhlanje.  The people are not quite today./The people must keep quiet today.
-Akabuye masinyane.  She must come back soon.
-Ngiyafuna ukumbona impela.  I really want to see him/her.
-Uyafuna ukuhleka manje? You want to laugh now?
-Nembala, abantu babi lapha. Of course, people are bad here.
-Ehhe, babi kakhulu. Yes, they are very bad.
-Ungahambi manje.
-Hlala phansi.   Sit down.
-LESSON FIFTEENTH.
-Ngibone imbongolo nembuzi, nenkunzi, nemvu laphaya.
-Sibiza abantwana, nomfazi, nezinsizwa.
-Ngiyibophile inkabi phezulu.
-Amadoda lapha ayaxoka.  The men here are making things up.
-Bheka intambo khona lapha.  Look for the rope right here.
-Niyafuna ukusebenza na? Do you all want to work?
-Yebo, siyafuna impela.
-Ngizilethile izinhlanzi khona manje.
-Niyaphi?    Where are you going?
-Nihamba nini?   When are you going?
-Cimani amalangabi masinyane.    Extinguish the flames soon.
-Bopha izimvu, nezimbuzi nezinja.
-Usebenzaphi?
-Izinyoni nezinyosi ziyandiza.   Birds and bees are flying.
-Asihambe, siyahleka kakhulu.
-Angisize amaxhegu nabafazi. Let me help the old men and women.
-Akasize abantwana.  Let him/her help the children.
-Abantwana balobe kahle kakhulu.
-Yebo, bahambile impela.
-Unani na? What do you have?
-Ngiyagula.
-Nivelaphi na?
-Insizwa ikhona, iyalibiza ixhegu.
-Izindlela zinhle, zibanzi kakhulu.
-Umfazi ufikile namhlanje.
-Letha izincwadi.
-Usebenze kahle impela.
-Ngimbongile.
-Ngisebenze ngamandla, Nkosi.
-Ikhaya liphi?
-Liphi ikhaya?
-Abantu baphi?
+Siyahlupha na?
+Yebo, ngiyamfuna namuhla.
 Amahhashi aphi?
-Izimvu nezimbuzi ziphi?
-Imitsha iphi?   #TODO consider whether to change
-Iphi indawo?
-Ziphi izinyoka manje?
-Zihambile Nkosi.
-Unamanga.
-Izinyoka ziningi laphaya.
-Ngizibonile impela.
-Hambani kahle.
-Asihambe manje.
-Izintaba zinde. The mountains are high.
-Into imbi.  The thing is bad.
-Imvu mfushane.    The sheep is small.
-Izinhlansi zinkulu. The sparks are big.
-Izinyoni zinhle.    The birds are pretty.
-Izinto zindala.  The things are old.
-Izindaba zimbi.  The affairs are not good (are bad).
-Izindlu zinkulu.    The houses are large.
-Imizi mikhulu.  The kraals are extensive.
-LESSON SIXTEENTH.
-Ngiyoloba.  I will write
-Siyoloba. We will write.
-Uyoloba.   You will write.
-Niyoloba.   You will write.
-Uyoloba.   He/she will write.
-Bayoloba.   They will write.
-Ihhashi liyogijima.   The horse will run.
-Amasela ayontshontsha.    Thieves will steal.
-Umhlobo uyofika.  The friend will arrive.
-Imizimba iyoguga. Bodies will grow old.
-Inkanyezi iyokhanya.  The star will shine.
-Izimbongolo ziypkhonya. Donkeys will bray.
-Ngithandile.    I have loved.
-Ngiyothanda.    I will love.
-Ngizobuya lapha kusasa.   I will return here tomorrow.
-UTom uhlalaphi?
-Hlala lapho, Mnumzana.
-Uyamazi na?
-Ehhe, ngiyamazi impela.
-Ukhona manje?
-Ngiyakholwa ukuthi ukhona namhlanje.
-Asisebenze ngamandla namuhla.
-Itiye linamandla kakhulu.
-Shaya insimbi.
-Sifuna amanzi.
-Uyafuna ukuthenga izinto?
-Chabo, ngifuna ukuthengisa izimvu nezimbuzi.
-Vala amafasitela.
-Vula umnyango manje.
-Ngiyotshela umfazi.
-Uzopheka inkukhu khona manje.
-Abantu basebenza ngamandla impela.
-Uhleba ngamabomu.
-Niyangihlupha namhula kakhulu, bantwana.
-Sizohlala laphaya kusasa ntambama.
-Ixhegu liyagula.
-Uzofa khona manje.
-Uyagula na? 
-Chabo, ngiphila impela.
-Uzoletha izinto lapha kusasa.
-Letha izinto lapha kusasa.
-Konje abafana babi ngempela na?   So then the boys are very bad indeed?
-Konje nibuyile kuthangi? Do you mean to say you returned two days ago?
-Fakani izingubo.
-Amadoda akhona.
-Ilanga lihle manje, libomvu impela.
-Uphi manje?
-Umnumzana ukhona.
-Uyobiza.
-Umkhuba mubi.
-Ufakazi uzohamba manje.
-Konje uhambile na?
-Ngifike izolo.
-Amatshe alukhuni kakhulu.
-Insimbi ilukhuni futhi.
-AmaBhunu namaNgisi maningi.
-Ngiyawabona impela.
-Amajuba mahle, andizela phezulu.
-Sinamahhashi.
-Unebhantshi nebhulukwe nehembe.
-Sihamba ngamahhashi.
-Siyosebenza ngamandla.
-Niyabuka nina?
-Itiye libi kodwa ikhofi limnandi.
-Konje ikhofi limnandi na? 
-Isifo sibi.
-Isitebele lapho sibanzi.
-Izivalo zinde.
-Konje amafasitela mancinyane?
-LESSON EIGHTEENTH.
-Ummbila uluhlaza.
-Uzibone nini izimvu?
-Ziphi manje?
-Ningazibuki izinkanyezi, bafana.
-INgisi lifike ngehhashi.
-Ukhuluma kabi manje.
-Msebenzi, awuthande umsebenzi.  Worker, like your job.
-Abantwana abaye ekhaya khona manje.
-Izigqoko zimbi kodwa izingubo zinhle.
-Isalukazi simnyama.
-Sulani kahle izicathulo.
-Umuntu ukhulume kancane.
-Izihlalo zimfushane kodwa zinhle impela.
-INkosi iyabasiza.
-Bazishaye kabi izimbongolo.
+Ningadwebi imidwa lapho.
+Amafasitela maningi.
+Uyathenga.
 Isinkwa sisha.
-Imizi mikhulu.
-Isandla silukhuni.
-Isigqoko simpofu. 
-Isitsha sikhona.
-Izitsha ziningi lapha.
-Isando sifushane.
-Umuntu mubi.
-Uqamba amanga impela.
-Isalukazi sibiza umfana.
-Indlela imbi.
-Umlungu mude.
-Umuzi mkhulu.
-Imilomo ibanzi.
-Imithi mide lapho.
-Siyohlala ngomuso.
-Umuthi ubaba kakhulu.
-Ningawuphuzi.
-Musani ukuqamba amanga.
-Umfundisi ujamile.
-Abafana nabantwana nezintombi, bathule impela.
-Abafana, nezinsizwa, namadoda bahambile manje.  The boys, young men, and men have gone now.
-Ngiyobabiza abafazi nezalukazi nezintombi.    I will call the women, the old women, and the grown girls.
-Ingonyama nezinkunzi, nezimbongolo kuyazulazula.    The lion, the bulls, and the mules are wandering about.
-Izimvu namahhashi nezinkabi ziyagijima.  The sheep, horses and oxen are running.
-Ngiyawashaya amahhashi nezimbongolo nenja.   I am striking the horses, the mules and the dog.
-LESSON NINETEENTH.
-Letha isinkwa.
-Lethani isinkwa.
-Awulethe isinkwa.
-Ake nilethe isinkwa.
-Silethe isinkwa.   Bring the bread.
-Zilethe izinkwa.    Bring the loaves.
-Siletheni isinkwa.  Bring the loaf.
-Waletheni amabhantshi namabhulukwe. Bring ye (them) the coats and trousers.
-Zilethe izitsha.    Bring the dishes.
-Liletheni ihhashi.  Bring the horse.
-Lunqume uthango.    Cut the wall.
-Bafana, nqumani imithi nezintango.
-Zithezeni izinkuni futhi.
-Zithatheni izinti.
-Izinti zincane.
-Sikhuluma ngolimi.
-Izinwele zimpunga.
-Ngilubonile uphondo lapho ekuseni.
-Luphi?
-Babasile namhlanje.
-Izimbambo ziphi?
-Ulwandle luphi?
-Ubisi luphi manje?
-Lukhona.
-Umfazi uyaziletha izimpaphe nezimpondo.
-Ngiyafuna ukuzithenga.
-Ufike nini?
-Ufike khona manje.
-Ukhona manje.
-Izimpaphe ziphi?    Where are the feathers?
-Zikhona lapha mnumzana.
-Uzithenga ngemali?
-Ehhe, ngizithenga ngemali.
-Ngifuna ubisi masinyane.
-Gundani kahle izinwele.
-Akagunde izinwele.
-Bazigunda kabi kakhulu izinwele.
-Asibashaye.
-Izinsuku ziningi.
-Ulwandle lubanzi kakhulu.
-Unyawo luphi? 
-Zibuke izimbambo.
-Ziningi izihlobo na?
-Ngithenga ngemali.  I buy with money.
-Ungathengi.  Do not buy.
-Ningathengi.    Do not buy.
-Banemali.   They have money.
-Abanamali.    They have no money.
-Unomntwana. He has a child.
-Akanamntwana. He has not a child
-Utshani buluhlaza impela manje.
-Ngiyabuthanda utshwala.
-Abafana bayamhlupha umfazi ngokungasizi.
-Umuntu uvelaphi?
-Awungene, Nkosi.
-Tshwala buni?
-Izintombi zibulethile, bukhona manje.
-Akanankomo na?
-Qhabo.
-Akanankomo.
-Unezimbuzi, nezimvu, nezinja.
-Ngiyakukholwa.  I believe you.
-Ngizohamba khona manje.
-Ubumpofu bukhona.
-Mtshele angathengi amazambane namuhla.
-Ngizwa ubuhlungu.
-Asinamali, banemali laphaya.
-Aninamali lapha na?
-Cha, Nkosi, imali iphelile.
-Sinezwe impela.
-Ungalethi ubuthi.
-Kulethe ukudla.
-Ngiyabuthanda impela ubudoda.
-Ubude buningi.
-Konje ubuthi bukhona na?
-Ubuthakathi bunamandla.
-Ngena manje, mnumzana.
-Izwe linezindlela nezintaba.
-Umfazi ushaya abantwana ngenduku.
-Sibuthande impela ubuhle.
-Ubuso buhle.
-Musani ukuthenga.
-Utshwala bubi lapha.
-Ubumpumpute bukhona.    There is blindness here.
-Ngizothenga izingubo ngemali namuhla.
-Ukulalela kuhle impela, kepha kubi kakhulu ukungalaleli.    It's very good to listen, but it's very to not listen.
-Ukulalelwa kuhle, kepha kubi ukungalalelwa. It is good to be listened to, but bad to be ignored.
-Bayathanda ukubuza imibuzo nokuphendula.
-Ukona kubi impela.  To sin is very bad.
-Ukuqala kulukhuni.  It is difficult to begin.
-Ngithanda ukuzithoba.   I like to humble myself.
-Sikubongile.    We thanked you.
-Ukupha kubalulekile, bantu.
-Ukuthokoza kuhle.
-Ukuphumula kuhle futhi.
-Konje ukuzidla kukhona, bantu?  So then you are pround here, people?
-Ukwesaba kulula.
-Ukubhala nokufunda kahle, kulukhuni, bantwana.   #TODO change some loba to bhala
-Abantu balele manje.
-Sekusebusuku manje. It is now night.
-Ngihlalile laphaya. I stayed over there.
-Ekuseni namuhla.    Today, in the morning.
-Sihlalile khona lapha, Nkosi.
-Ilanga liphumile.
-Izinkomo zijabulile.
-Izinja zikhonkothile.
-Amathole agijime njalo.   The yearlings are always running.
-Umuntu mubi, unamanga njalo njalo.  The person is bad, he/she is always lying.
-Abantu banquma izintango ngamandla.
-Uyakwazi ukufunda?
-LESSON TWENTY-SECOND.
-Ngizothenga.  I will buy.
-Amahhashi agijima.  The horses ran.
-Umhlobo ufikile izolo.   The friend arrived yesterday.
-Izinsizwa zasebenza.    The youths were working.
-Umcamelo wawulukhuni.    The pillow was hard.
-Umoya wawunamandla.  The wind was strong.
-Ubuthakathaka babuhlupha.   The weakness was troublesome.
-Ukudla kwakumnandi.   The food was sweet.
-Sizothanda.   We are going to love.
-Sizosiza. We come to help.
-Bayobuza. They have gone to enquire. #TODO continue tomorrow
-Sizekukhuluma.  We have come to talk.
-Musani ukuhamba.    Don't go.
-Umfazi Uzakusebenza lapho na?
-Yebo, 'nkosi.
-Yeka manje; kuningi; 'mnunzana!
-Utshwala bakhona.
-Buphuze manje, 'ndoda.
-Izicathulo zikhona na?
-Zibheke lapha.
-Thenga izinkomo ngemali.
-Zithenge izibane futhi.
-Sazitheza izinkuni, khonalapha.
+Yebo, kodwa abafazi bayabuya futhi.
+Sizosiza.
+Ngidonsa kamandla.
+Bagijima kahle na?
 Sakhuluma ngomlomo.
-Nginobuhlungu.
-Izisebenzi zofika kusasa, 'nkosi.
-Musani ukungihlupa, ngiyagula namuhla.
-Baphi abantu?
-Angibaboni.
-Ngenani manje, 'banumzana!
-Gijima manje, 'bafana.
-Balele impela.
-Ihhashi liyaqiqa kahle. #TODO check sentence
-Ngiyaqinisa, 'nkosi.
-Siyafuna ukuthenga iqoma, ngemali, manje. #TODO check sentence
-Siyazi, 'mnunzana.
-Niyakwazi ngomuso, 'bantwana.
-LESSON TWENTY-THIRD.
-Ubuntu bubi.    Human nature is bad.
-Izinsizwa ziningi.  The young men are numerous.
-Umntwana omuhle.
-Abantu abamnyama bakhona manje.
-Bafike izolo.
-Ihhashi elibi lagijima, ligijima ngokushesha.
-Ngizithanda izinto ezimhlope.
-Zikhona manje izitsha eziluhlaza.
-Imizi emikulu miningi laphaya.
-Abantu ababi bahambile izolo.
-Ukudla okumhlope kukhona.
-Ukuphekile na?
-Ngiwubonile umsinga omude.
-Izwe linezintaba ezinde.
-Umuthi omkulu ukhona lapha.
-Umfazi waziletha izinti eziningi.
-Siyambona umfana omfutshane impela.
-Amadoda amaningi bosebenza lapha ngomhlomunye entambama.
-Abafazi bayabiza innyama emnandi manje.
-Ningabizi innyama, 'bafazi.
-Hambani kahle.
-Musani ukuhlala lapha, yemukani khonamanje.
-Sukanibo, 'bafana, ningalali lapho!
-Ummbila ombi.
-Yenza kahle; sobuyela khonamanje.
-Thatha izinyawo.
-Baphonsa umlomo phezulu.
-Amadoda laphaya mahle impela.
-Ngemihla ngazifunda izincwadi.
-Sawubona, 'mngane!
-Shesha! Quick now!
-Suka!  Clear out!
-Hamba kahle. Goodbye, go well.
-Sala kahle. Goodbye, stay well.
-Yenza kahle.    Wait a moment, please.
-Qapela! Mind what you are doing!
-Baphonso umlomo phezulu.   They talk too much, too noisily, etc.
-Thatha izinyawo.    Move along quickly.
-Isikhathi sini? What time is it?
-Kulungile. That is all right.
-LESSON TWENTY-FOURTH.
-Indlovu inkulu kunehhashi.  The elephant is bigger than the horse.
-Izinja zikulu kunamakati.   Dogs are bigger than cats.
-Umfana umfutshane kunendoda.    The boy is shorter than the man.
-Umfana mubi kakhulu.    The boy is very bad.
-Indlu inkulu kakhulu.   The house is very large.
-Ngiyabona I see.
-Uyobutha. You will gather.
-Uyabutha.   You gather.
-Uyobopha.   He will bind.
-Uyabopha.   He binds.
-Siyothula.  We shall be quiet
-Siyathula.  We are quiet.
-Niyakhuleka.    You salute.
-Niyokhuleka.   You will salute.
-Bayahlakula.   They are weeding.
-Bayohlakula.    They will weed.
-Ngiyobona.  I shall see.
-Sizofika.   We shall arrive.
-Ikati lizobuyela khonamanje.    The cat will come back just now.
-Amasegu azobuya, kusasa.    The old men will return tomorrow.
-Ufakazi uzofika emtambama. The witness will arrive this afternoon.
-Thatha izinyawo; anginasikati.
-Qapela manje, 'mfana.
-Itiye linamandla kakhulu.
-Amanzi ayabila na?
-Nihambaphi manje?
-Siyakuvakasha.
-Shaya insimbi, sifuna amanzi.
-Waletheni khonamanje.
-Izulu libi namuhla, linamafu.
-Laduma impela izolo kusihlwa.
-Babize abantwana, 'bafana.
-Thulanibo.
-Ijuba likhona phezu kwophahla.
-Sibabonile abantu phesheya kwezintaba.
-Nganeno kwentaba izimvi ziningi impela.
-Bizani abantwana, 'mfana.
-Musani ukuhleba.
-Musani ukuqamba amanga, 'bafana.
+Uyambona laphaya?
+Ngizilethile izinhlanzi khona manje.
+Bangathanda.
+Siyawuthatha umphongolo namhlanje.
+Uzithenga ngemali?
+Ake nilethe isinkwa.
+Cha, Nkosi, imali iphelile.
+Siza amakhehla nabafokazana.
+Liyagijima kahle impela.
+Sizohlala laphaya kusasa ntambama.
+Uyadinga ukudonsa.
+Umhlobo uyofika.
+Wazalelwaphi?
+Musani ukuduba amadoda.
+Linda kancane.
+Ungathengi amahhashi, thenga indawo.
+Sifuna amanzi.
+Ihhashi liyogijima.
+Hambani nisebenze khona manje.
+Liphi ikhaya?
+Ufunda kahle na?
+Niyakhuluma.
+Izicathulo zikhona na?
+Bafana, nqumani imithi nezintango.
+Sekusebusuku manje.
+Kulungile.
+Umlungu uyagula kakhulu.
+Lo mfana uzoyazi indoda.
+Sihambe khona manje na?
+Isigqoko simpofu.
+Izinyoni nezinyosi ziyandiza.
+Uzopheka inkukhu khona manje.
+Qhabo.
+Ucabangani?
+Bayangihlupha kakhulu.
+Bazishaye kabi izimbongolo.
+Obani abazali bakho?
+Liletheni ihhashi.
+Umuntu umnyama.
+Pheka amaqanda.
+Umlungu uyambiza.
+Uyafunda kahle futhi.
+Zikhona lapha mnumzana.
+Umkhuba mubi.
+Amadoda lapha ayaxoka.
+Nembala, abantu babi lapha.
+Imigodi lapha miningi.
+Ningathengi.
+Ngithandile.
+Uyabutha.
+Ngiyabusa.
+Abathande.
+Akabuye masinyane.
+Ngihamba nehhashi.
+Ungalethi ubuthi.
+Uyobiza.
+Izinto zindala.
+Uyafundisa.
+Sinamahhashi.
+Siyobhala.
+Nihamba ngamahhashi namuhla.
+Imifula ibanzi kakhulu.
+Nivelaphi na?
+Yebo, kodwa abantu lapha babi impela.
+Kubiza malini ukuza lapha enyuvesi?
+Ukuthokoza kuhle.
+Ngivumela abafana ukuhamba namhlanje.
+Umfazi ushaya abantwana ngenduku.
+Uhlala nobani?
+Asisebenze ngamandla namuhla.
+Sihamba ngamahhashi.
+Ukuqala kulukhuni.
+Ekuseni namuhla.
+Imizimba iyoguga.
+Yebo, bayakubiza futhi.
+Ukulalelwa kuhle, kepha kubi ukungalalelwa.
+Yebo, ngiyabathanda kakhulu.
+Babasile namhlanje.
+Bamba umgodi lapho.
+Sazitheza izinkuni, khonalapha.
+Abafana basebenza ngamandla impela.
+Akagunde izinwele.
+Bayobhala.
+Uneminyaka emingaki?
+Uyafuna ukuhlakula manje.
+Akusemqoka.
+Amajuba mahle, andizela phezulu.
+Amakhehla azobuya kusasa.
+Umfazi ufikile namhlanje.
+Ningahleki, thulani bo.
+Abelungu bacelani?
+Aninamali lapha na?
+Ngibone imbongolo nembuzi, nenkunzi, nemvu laphaya.
+Konje ikhofi limnandi na?
 Konje uyamhleba umuntu na?
-Eduze kwendlu, izikhukhukazi ziningi, 'nkosi.
-Sala ngaphandle kwefasitela.
-Uyakubutha izimbali namhlanje, 'mntwana?
-Umuntu uyakufika nini?
-Insizwa inesigqoko esimnyama, nebhantshi elimhlope.
-Letha isibane esikhulu lapha kokhonamanje. #TODO check  kokhonamanje
-Sibheke lapho, 'mfana.
-Zisule izihlalo futhi.
-Ngithande.  I may love.
-Sithande.   We may love.
-Uthande.    You may love.
-Nithande.   You may love.
-Athande.    He may love.
-Bathande.   They may love.
-Sibize manje na?    Shall we call now?
-Ngihambe na?    Shall I go?
-Ngiyakumsiza ukuba asebenze ngamandla.  I will help him so that he may work vigorously.
-Sibizile abafana ukuba bageze izitsha.  We have called the boys in order that they should wash the plates.
-Siyakuhlala lapha, sifunde. We will remain here and learn.
-Ngiyakuza ukuba ngisebenze ngomhlomunye.    I will come to work, on the day after tomorrow.
-Woza uhlakule manje.   Come out and weed now.
-Amadoda athanda utshwala.   The men like beer
-Abantwana bathande izitelo. The children may like fruit.
-Abafazi bathande izingubo.  The women may be fond of clothes.
-Ungayibhemi insangu, 'mfana. #TODO should mentions of insangu be removed?
+Siyahlakula.
+Ubani isibongo sakho?
+Uyabiza.
+AmaBhunu namaNgisi maningi.
+Yebo, ngizithenga ngemali.
+Size ukukhuluma.
+Siyovakasha.
+Sifuna imiphongolo.
+Thula ke.
+Bayobuza.
+Uyafuna ukufunda.
+Itshe lapho likhulu.
+Siyambona umfana omfushane impela.
+Ubuntu buhle.
+Utshwala bubi lapha.
+Ilanga liphumile.
+Ngenani manje, banumzana!
+Ngiyashaya.
+Ningathanda.
+Angithande.
+Musani ukuhleba.
+Imithetho mibi.
+Siyambona.
+Funda.
+Bheka.
+Siletheni isinkwa.
+Uzobutha izimbali namhlanje, mntwana?
+Ngiyambona laphaya.
+Ubisi luphi manje?
+Ungathengi.
+Hamba ngokushesha.
+Letha amanzi khona manje.
+Umzalwane ukhona na?
+Ningasebenzi.
+Ngihambe manje?
+Uyabona.
+Ngiyazi kakhulu kunaye.
+Ngihlalile laphaya.
+Abantu baningi.
+Abantwana babuka ummese.
+Ubumpumpute bukhona.
+Isikhathi sini?
+Uphi manje?
+Ngiyafuna ukumbona impela.
+Akalethe ihhashi masinyane.
+Iluhlaza impela.
+Sawubona, mngane!
+Siyosebenza ngamandla.
+Ehhe, uyajama kakhulu.
+Ningaceli inyama, bafazi.
+Sidonse amahhashi.
+Izindlela zinhle, zibanzi kakhulu.
+Ngizothenga.
+Siyabhaca.
+Imimese ikhona na?
+Kufanele wenze lokho.
+Ukubhala nokufunda kahle kulukhuni, bantwana.
+Ngimbongile umfana kakhulu ekuseni.
+Abantwana bafuna umfundisi
+Silethe isinkwa.
+Abafazi bayahlakula manje, kodwa abantwana bayafunda.
+Siyabusa.
+Thulani ke.
+Uyanihleka.
+Imizi mikhulu.
+Izinyoni zinhle.
+Wena uyisilima.
+Sibuthande impela ubuhle.
+Umoya unamandla.
+Bayanifuna na?
+Ufakazi uzohamba manje.
+Asiyobona induna.
+Uyathanda ukufunda kahle.
+Siyabuya, sinamahhashi.
+Bizani.
+Uma uthanda, ungaphuma.
+Amahhashi agijima.
+Sala kahle.
+Vula umnyango manje.
+Ngithanda izinto ezimhlophe.
+Bayakhala kakhulu manje.
+Itiye lijiyile kakhulu.
+Sulani kahle izicathulo.
+Musani ukuqamba amanga, bafana.
+Biza abantwana, mfana.
+Zihambile Nkosi.
+Sizolisula itafula.
+Ufike khona manje.
+Umlungu uyajama kakhulu.
+Amadoda amaningi azosebenza lapha ngomhlomunye ntambama.
+Ihhashi liphi?
+Musani ukuthenga ummbila, siyathenga manje.
+Ninamafutha na?
+Ngiyambamba.
+Ningahluphi umhlobo.
+Umfundisi uthanda ukubafundisa abantwana.
+Niyabona.
+Amatshe makhulu.
+Abalimi balimelani namhlanje?
+Imbala abantu bahle na?
+Ukhuluma kabi manje.
+Musani ukuqamba amanga.
+Ngiyawaletha amayembe namabhantshi.
+Chabo, ngiphila impela.
+Ungathanda.
+Sibize abafana ukuba bageze izitsha.
+Abafazi bangathanda izingubo.
+Izulu libi namuhla, linamafu.
+Ufike nini?
+Banamaqanda.
+Imisundu ikhona, miningi kakhulu.
+Umoya wawunamandla.
+Ngiyambona.
+Amakati akhona.
+Abafana bayamhlupha umfundisi.
+Omiyane bakhona lapha.
+Umqashi utshela abafana ukuba basebenze ngamandla namhlanje.
+Gijimani manje, bafana.
+Ungabheki.
+Ngiyahamba, nginehhashi.
+Siyabona.
+Omiyane bayahlupha.
+Phumani manje, bafana.
+Siyasiza.
+Uyambona na?
+Ningalali manje, bafana.
+Bayathanda ukubuza imibuzo nokuphendula.
+Uyamba.
+Izimbambo ziphi?
+Bheka intambo khona lapha.
+Ukuphumula kuhle futhi.
+Ungathandi.
+Ngithanda ukuzithoba.
+Nihamba nini?
+Ubude buningi.
+Sibheke lapho, mfana.
+Singathanda.
+Thulani bo.
+Unezimbuzi, nezimvu, nezinja.
+Ngiyabasiza abazalwane.
+Amathole agijime njalo.
+Hlala lapho, Mnumzana.
+Mina ngedwa.
+Umfundisi ufike izolo.
+Kulethe ukudla.
+Hlala phansi.
+Ngisebenze ngamandla, Nkosi.
+Yebo, bahambile impela.
+Umuzi mkhulu.
+UZulu uyalala.
+Ungawasizi amavila.
+Siyahamba mạnje, sinehhashi.
+Uyakhala kakhulu.
+Siyohlala ngomuso.
+Yebo, ngifuna umuthi namhlanje.
+Bayabonga.
+Ungihlebile izolo.
+Niyabhaca.
+Chabo, siyathula.
+Yebo, bahle kakhulu impela lapha.
+Nginebhantshi nebhulukwe.
+Zithatheni izinti.
+INgisi lifike ngehhashi.
+Yimina.
+Cimani amalangabi masinyane.
+Bayagijima.
+Musani ukuhamba.
+Ngiyathenga.
+Sibiza abantwana, nomfazi, nezinsizwa.
+Abafazi baqotho na?
+Niyasebenza lapha na?
+Bayangibiza manje.
+Amanzi ayabila na?
+Umhlobo uyajama impela.
+Ngiyajabula ukukwazi.
+Ivila liyahlala.
+Izisebenzi zofika kusasa, Nkosi.
+Izinti zincane.
+Thula bo.
+Imilenze miningi, kodwa mifushane kakhulu.
+Ulwandle luphi?
+Sebenzani.
+Isandla silukhuni.
+UTom uhlalaphi?
+Beliduma impela izolo kusihlwa.
+Abafana nabantwana nezintombi, bathule impela.
+Shesha!
+Angibaboni.
+Umlungu mude.
+Umpheki uyagula kakhulu futhi namhlanje.
+Letha izincwadi.
+Uyasebenza.
+Ihhashi linamandla.
+Konje amafasitela mancinyane?
+Ungahambi manje.
+Asithande.
+Bayathanda ukufunda impela.
+Abantu bakhona lapha manje?
+Abafana bayamhlupha umfazi ngokungasizi.
+Bakhulumela safuthi!
+Amakhehla ayakhuluma kakhulu laphaya, kodwa abafazi lapha bathule.
+Bazigunda kabi kakhulu izinwele.
+Ehhe, babi kakhulu.
+Hamba ngokushesha, anginasikhathi.
+Chabo, ngifuna ukuthengisa izimvu nezimbuzi.
+Bayadla.
+Siyazi, mnumzana.
+Uyabhema kakhulu, ungabhemi.
+Bahlekani?
+Ngiyanibiza.
+Umfazi uyagijima.
+Siyathanda.
+Abantu baningi namhlanje.
+Sihlalile khona lapha, Nkosi.
+Izindaba zimbi.
+Usebenza ngamandla.
+Sinezwe impela.
+Ningafundi.
+Letha isibani esikhulu lapha khona manje.
+Awaphume amahhashi.
+Biza umfokazana.
+Abantwana bahlabelela kakhulu laphaya.
+Umkhuba mubi impela.
+Siyafuna ukuthenga iqoma ngemali manje.
+Tshwala buni?
+Ngiyibophile inkabi phezulu.
+Asihambe manje.
+Nginebhantshi.
+Abelungu babulala omiyane.
+Uyobutha.
+Izulu limnyama manje.
+Ukulalela kuhle impela, kepha kubi kakhulu ukungalaleli.
+Uyasishaya.
+Amanga!
+Ikati lizobuyela khona manje.
+Siyafunda.
+Fakani izingubo.
+Ngiyambiza.
+Ningawuphuzi.
+Ngiyabuthanda impela ubudoda.
+Ufakazi uzofika ntambama.
+Sihamba sinamasi.
+Lunqume uthango.
+Igama lincane.
+Buphuze manje, ndoda.
+Ngiyawabona impela.
+Uyajama kakhulu.
+Anithande.
+Ngilubonile uphondo lapho ekuseni.
+Ufuna umuthi na?
+Izimvu nezimbuzi ziphi?
+Ufakazi uyaxoka impela.
+Ungathathi amatafula.
+Utshani buluhlaza impela manje.
+Abantwana abaye ekhaya khona manje.
+Insizwa ikhona, iyalibiza ikhehla.
+Bayanifuna.
+Indlovu inkulu kunehhashi.
+Izinkomo zijabulile.
+Izindlu zinkulu.
+Uzibone nini izimvu?
+Amatafula lapho makhulu impela.
+Ngiyakusiza na?
+Ngihamba ngehhashi.
+Ngiyabuthanda utshwala.
+Bopha izimvu, nezimbuzi nezinja.
+Ngiyobhala.
+Ngiyanifundisa.
+Unomutsha.
+Zibheke lapha.
+Umfana mubi kakhulu.
+Ningabheki.
+Konje ukuzidla kukhona, bantu?
+Sebenza bo!
+Niyalima.
+Izwe linezintaba ezinde.
+Niyasihlupha, ningahluphi umfundisi futhi.
+Niyabhema.
+Imilenze mincane.
+Amahhashi maningi.
+Musa ukwenza lokho.
+Zibuke izimbambo.
+Izwe linezindlela nezintaba.
+Yebo, bayakukhulekela kakhulu.
+Asinamali, banemali laphaya.
+Yeka manje, kuningi, mnumzana!
+Siyaliletha khona manje.
+Abantu bayangihleka manje.
+Ukudla okumnandi kukhona.
+Bambani.
+Umuntu mubi.
+Abantu basebenza ngamandla impela.
+Umutsha muhle.
+Bayafunda.
+Ilanga lihle manje, libomvu impela.
+Ngiyabona.
+Eduze kwendlu, izikhukhukazi ziningi, Nkosi.
+Ngiyathanda.
+Ningihlupha ngamabomu.
+Basebenzaphi?
+Imigodi mikhulu.
+Ngena manje, mnumzana.
+Musani ukungihlupha, ngiyagula namuhla.
+Niyafundisa namhlanje impela.
+Isalukazi simnyama.
+Umfazi uzosebenza lapho na?
+Isango libanzi futhi.
+Phephisa.
+Gundani kahle izinwele.
+Abafana bayamhlupha umlimi.
+Lalela imithetho nemikhuba emihle.
+Yebo, likhona lapha.
+Uyahleka.
+Umzimba umnyama.
+Musani ukuhleba!
+Aphi amakhehla?
 Hamba manje, uthathe incwadi.
-#TODO unfamiliar sentence Ngikutshelile ukuba ufulatele.
-#TODO check sentence Fulatela masinyane.
-Umlungu uyatshela abafana ukuba basebenza ngamandla namhlanje.
-Abize manje na, 'nkosi?
-Sihambe khonamanje na?
-Usizile amantombazana ukuba ageze ngamandla.
-Bayakuhlala lapha ukuba bafunde kahle.
-Phumani manje, 'bafana.
-Nikulume, nihlale manje.
-Hambani, nisebenze khonamanje.
-Uhlala lapha ulobe, ufunde.
-Woza uhambe manje laphaya.
-Phuma, ubambe inkukhu, uyibulale.
-Babasile umlilo lapho, funa bagodole ekuseni.
-Ufunani?    What do you want?
-Izulu libuyisa. Rain is coming; it will turn wet.
-Uthanda lokhu yinina?   Do you like this-yes or no?
-Akahlakule. Let him do the weeding.
-Akaphume amahhashi. Let the horses out.
-Asobona induna. Let us go and see the headman.
-Liyakhuluma ngami.  You are talking about me.
-Uphi lapho? Who is there?
-Imina.  It is I.
-Mina ngedwa.    I alone (only I!)
-Lomfana uyakuyazi indoda.   This boy will know the man.
-Nginokwazi kunaye.  I know no more than he does.
-Uma uthanda, ungaphuma. If you wish you may go out.
-Nithini na? What do you say?
-Usekaya na? Is he at his place (at home)?
-Yenza kahle.    Wait a minute.
-Musa ukwenza lokho.  You musn't do that.
-Ufanele ukweza lokho.   You must do that.
-Akunacala.  That's of no importance.
-Kwenzenjani?    What has happened?
-Lendoda inzima. This man is influential.
-Ngisize emakhaleni. Give me a pinch of snuff.
-Banetama.   They are liars.
-Mbala kunjalo.  Is it really so.
-Ubani igama lakho?  What is your name?
+Uzoletha izinto lapha kusasa.
+Uhleba ngamabomu.
+Ungafundi.
+Ukona kubi impela.
+Umfana muhle.
+Siyambuyisa.
+Nibonani?
+Uphi umshanelo?
+Amadoda laphaya mahle impela.
+Bayahlupha kakhulu.
+Amatshe maningi laphaya.
+Amatafula mancinyane.
+Usize amantombazana ukuba ageze ngokushesha.
+Wazalwa nini?
+Asihambe, siyahleka kakhulu.
+Ilanga libalele namhlanje.
+Ilanga liyaphuma.
+Ihhashi likhona futhi?
+Ukhona manje?
+Ngiyasiza.
+Ngiyagula.
+Ngizibonile impela.
+Yenza kahle, sizobuyela khona manje.
+Thenga izinkomo ngemali.
+Izinja zinkulu kunamakati.
+Niyamthanda na?
+Ixhegu liyagula.
+Letha ipuleti, musa ukuletha inkomishi.
+Angazi.
+Bayagcina.
+Ungigxekile.
+Wangcono ngokushesha.
+Ingqwele inomoya omuhle.
+Sicela ingxenye yesinkwa.
+Nizoqhathanisa izinkomo nezimbuzi.
+Akachazi kahle.
