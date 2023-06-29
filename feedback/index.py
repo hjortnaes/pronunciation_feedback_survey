@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, g
 import sqlite3
 
+from zu_ipa import syllablize
+
 
 app = Flask(__name__)
 DATABASE = 'feedback.db'
@@ -46,6 +48,6 @@ def feedback():
     query = f'select c.* from clips c join feedback f'  # TODO write the select query for getting the next item
     clip = query_db(query, one=True)
     context['clip_path'] = clip.path
-    context['clip_text'] = clip.text
+    context['clip_text'] = syllablize(clip.text)
     return render_template('feedback.html', context=context)
 
