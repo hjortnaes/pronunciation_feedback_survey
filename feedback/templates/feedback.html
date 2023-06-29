@@ -9,24 +9,23 @@
 <br><br>
 <p>Test Stuff</p>
 <br>
-<form action="" method="post">
+<form action="{{ url_for('feedback') }}" method="post">
   <table border="1">
     <tr id="text_row"></tr>
     <tr id="checkbox_row"></tr>
   </table>
   <br>
     <audio controls>
-        <source src="" type="audio/">
-        This browser doesn't support audio
+        <source src="{{clip_path}}" type="audio/">
     </audio>
     <br><br>
-  <input type="text" onclick="update_table(this.value)" value="Test stuff">
+<!--  <input type="text" onclick="update_table(this.value)" value="Test stuff">-->
   <input type="submit" value="Submit">
 </form>
 
 </body>
 
-<script>
+<script defer>
 function update_table(text) {
   // reset the rows
   let text_row = document.getElementById("text_row");
@@ -35,17 +34,22 @@ function update_table(text) {
   checkbox_row.innerHTML = "";
 
   for (let i = 0; i < text.length; i++) {
-    let radio_name = "char" + i.toString();
-    let radio_box = "<label>10</label><input type='radio' id='10' name='" + radio_name + "' value='10' checked>";
-    for (let j = 9; j > 0; j--) {
-      radio_box += "<br><label>" + j + "</label><input type='radio' id='" + j + "' name='" + radio_name + "' value='" + j + "'>";
+    let error_box = ""
+    if (text[i] === " ") {
+      let check_id = "char" + i.toString();
+      let error_box = "<input type='checkbox' id='" + check_id + "' name='errors' value='" + i.toString() + "'>";
     }
+    // for (let j = 1; j > 0; j--) {
+    //   error_box += "<br><input type='radio' id='" + j + "' name='" + check_id + "' value='" + j + "'>";
+    // }
 
     text_row.innerHTML += "<td>" + text[i] + "</td>";
-    checkbox_row.innerHTML += "<td>" + radio_box + "</td>";
+    checkbox_row.innerHTML += "<td>" + error_box + "</td>";
   }
 }
+update_table('Test Stuff')
+// update_table({{clip_text}})
 </script>
 
-<script src="../js/feedback.js"></script>
+<!--<script src="../js/loadData.js"></script>-->
 </html>

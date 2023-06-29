@@ -36,11 +36,14 @@ def index():
 def feedback():
     context = {}
     if request.method == 'POST':
-        query = f'update {request.data}'  # TODO write the update query for adding feedback
+        errors = [int(x) for x in request.form['errors']]
+        feedback = [1 for x in range(len())]
+        # TODO write the update query for adding feedback
+        query = f'update feedback set scores = {feedback} where id = {0}'
         query_db(query)
 
     # Do on get and post
-    query = f'select * from clips join feedback f'  # TODO write the select query for getting the next item
+    query = f'select c.* from clips c join feedback f'  # TODO write the select query for getting the next item
     clip = query_db(query, one=True)
     context['clip_path'] = clip.path
     context['clip_text'] = clip.text
