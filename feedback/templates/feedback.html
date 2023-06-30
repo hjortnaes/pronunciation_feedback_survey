@@ -20,6 +20,7 @@
     </audio>
     <br><br>
 <!--  <input type="text" onclick="update_table(this.value)" value="Test stuff">-->
+    <input type="text" id="clip_text" name="clip_text" value="{{ clip_text }}" hidden>
   <input type="submit" value="Submit">
 </form>
 
@@ -47,7 +48,7 @@ function update_table(text) {
     checkbox_row.innerHTML += "<td>" + error_box + "</td>";
   }
 }
-update_table('Test Stuff')
+update_table({{ clip_text }})
 // update_table({{clip_text}})
 </script>
 
