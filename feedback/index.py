@@ -32,6 +32,8 @@ def close_connection(exception):
 @app.route("/", methods=['POST', 'GET'])
 def index():
     context = {'message': 'What is your grader id?'}
+
+    # Handle form submission
     if request.method == 'POST':
         graderid = request.form['name']
         # check if the speaker is in the db
@@ -41,12 +43,19 @@ def index():
             return redirect(url_for('feedback'))
         else:  # the grader is not in the db, ask again
             context['message'] = 'Sorry, we could not find that grader id. Please try again:'
+
     return render_template('index.html', context = context)
 
 
 @app.route('/feedback/', methods=['POST', 'GET'])
 def feedback():
+
+    if not session['graderid']:  # make sure that a graderid is always active
+        redirect(url_for('index'))
+
     context = {}
+
+    # Handle form submission
     if request.method == 'POST':
         errors = [int(x) for x in request.form['errors']]
         feedback = [1 for _ in range(len(request.form['clip_text']))]
@@ -63,8 +72,8 @@ def feedback():
     query = f'select c.* from clips c where filename not in ' \
             f'(select filename from feedback where grader = {session["graderid"]}) ' \
             f'order by random() limit 1;'
-
     clip = query_db(query, one=True)
+
     context['clip_path'] = clip.filename
     context['clip_text'] = syllablize(clip.text)
     return render_template('feedback.html', context = context)
