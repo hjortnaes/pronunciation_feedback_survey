@@ -3,23 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <title>Feedback</title>
-    <link rel="stylesheet" href="feedback.css">
+    <link rel="stylesheet" href="../static/feedback.css">
 </head>
 <body style="margin: auto">
 <br><br>
-<p>Test Stuff</p>
+<p>{{ ''.join(clip_text) }}</p>
 <br>
 <form action="{{ url_for('feedback') }}" method="post">
   <table border="1">
-    <tr id="text_row"></tr>
-    <tr id="checkbox_row"></tr>
+    <tr id="text_row">
+        {% for sound in clip_text %}
+        <td>{{ sound }}</td>
+        {% endfor %}
+    </tr>
+    <tr id="checkbox_row">
+        {% for i in range(clip_text|length) %}
+        <td><input type='checkbox' id='check_{{ i }}' name='errors' value='{{ i }}'></td>
+        {% endfor %}
+    </tr>
   </table>
   <br>
     <audio controls>
-        <source src="{{clip_path}}" type="audio/">
+        <source src="{{ url_for('static', filename = clip_path) }}" type="audio/">
     </audio>
     <br><br>
 <!--  <input type="text" onclick="update_table(this.value)" value="Test stuff">-->
+    <input type="text" id="clip_path" name="clip_path" value="{{ clip_path }}" hidden>
     <input type="text" id="clip_text" name="clip_text" value="{{ clip_text }}" hidden>
   <input type="submit" value="Submit">
 </form>
@@ -27,6 +36,7 @@
 </body>
 
 <script defer>
+// DEPRECATED
 function update_table(text) {
   // reset the rows
   let text_row = document.getElementById("text_row");
@@ -48,7 +58,7 @@ function update_table(text) {
     checkbox_row.innerHTML += "<td>" + error_box + "</td>";
   }
 }
-update_table({{ clip_text }})
+// update_table({{ clip_text }})
 // update_table({{clip_text}})
 </script>
 

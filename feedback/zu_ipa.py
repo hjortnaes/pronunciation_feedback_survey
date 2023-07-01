@@ -22,13 +22,13 @@ def syllablize(sent):
     return syllables, sounds[:-1]
 
 
-sent_file = open(sys.argv[1], 'r')
-
-
-with open(sys.argv[2], 'w') as out_file:
-    for line in sent_file:
-        syl_line, sound_line = syllablize(line)
-        print(line.strip(), file=out_file)
-        print(syl_line, file=out_file)
-        print(sound_line, file=out_file)
-        print('-'*64, file=out_file)
+# sent_file = open(sys.argv[1], 'r')
+#
+#
+# with open(sys.argv[2], 'w') as out_file:
+#     for line in sent_file:
+#         syl_line, sound_line = syllablize(line)
+#         print(line.strip(), file=out_file)
+#         print(syl_line, file=out_file)
+#         print(sound_line, file=out_file)
+#         print('-'*64, file=out_file)
