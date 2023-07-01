@@ -63,10 +63,8 @@ def index():
 @app.route('/feedback/', methods=['POST', 'GET'])
 def feedback():
 
-    if not session['graderid']:  # make sure that a graderid is always active
+    if 'graderid' not in session:  # make sure that a graderid is always active
         return redirect(url_for('index'))
-
-    context = {}
 
     # Handle form submission
     if request.method == 'POST':
