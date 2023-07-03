@@ -16,7 +16,7 @@ Ngizoza ukuzosebenza ngomhlomunye.
 Fundani.
 Imbala uyathanda abantwana na?
 Uyobhala.
-Singashaya ucingo manje na?    
+Singashaya ucingo manje na?
 Sizothanda.
 Itiye libi kodwa ikhofi limnandi.
 Aphi amehlo akho.
@@ -51,7 +51,7 @@ Ngingathanda.
 Konje abafana babi ngempela na?
 Imilomo ibanzi.
 Niyafuna ukusebenza na?
-Ngingahamba na? 
+Ngingahamba na?
 Umfazi uyambiza umntwana.
 Ijuba likhona phezu kophahla.
 Imithi miningi
@@ -74,14 +74,14 @@ Angisize amakhehla nezalukazi.
 UZulu liwathengisile amahembe.
 Nithengisa amageja lapha?
 Umnumzana ukhona.
-Ufundela ukuba yini?    
+Ufundela ukuba yini?
 Niyokhuleka.
 Ngiyobabiza abafazi nezalukazi nezintombi.
 Bayabiza.
-Uyasebenza na?   
+Uyasebenza na?
 Letha isinkwa.
 Baphi abantu?
-Uyagula na? 
+Uyagula na?
 Amasele akhona, ngiyawabona manje.
 Siyasebenza.
 Bazohlala lapha ukuba bafunde kahle.
@@ -116,7 +116,7 @@ Sizohlala lapha, sifunde.
 Abantwana balobe kahle kakhulu.
 Ukudla kwakumnandi.
 Siyathanda ukuhlabelela kakhulu.
-Abazali bakho bayasebenza? 
+Abazali bakho bayasebenza?
 Uxolo.
 Siyakhuluma futhi.
 Ubani olapho? Who is there?
@@ -131,7 +131,7 @@ Bamba.
 Itiye limnandi.
 Indlela imbi.
 Hamba.
-Unyawo luphi? 
+Unyawo luphi?
 Uyasibiza na?
 Ziphi manje?
 Amasela ayontshontsha.
@@ -201,7 +201,7 @@ Izulu liyabuyisa.
 Siyothula.
 Uyabopha.
 Umntwana muhle, kodwa abafana babi.
-Usebenzaphi? 
+Usebenzaphi?
 Hamba kahle.
 Ubuya namahhashi.
 Yebo, bagijima kahle kakhulu.
@@ -295,7 +295,7 @@ Thathani imimese.
 INkosi iyabasiza.
 Abantu banquma izintango ngamandla.
 Ngiyafuna ukuzithenga.
-Unani na? 
+Unani na?
 Yebo, ngiyamazi impela.
 Siyanibiza.
 Bayahleba.
@@ -414,7 +414,7 @@ Isigqoko simpofu.
 Izinyoni nezinyosi ziyandiza.
 Uzopheka inkukhu khona manje.
 Qhabo.
-Ucabangani? 
+Ucabangani?
 Bayangihlupha kakhulu.
 Bazishaye kabi izimbongolo.
 Obani abazali bakho?
@@ -445,7 +445,7 @@ Nihamba ngamahhashi namuhla.
 Imifula ibanzi kakhulu.
 Nivelaphi na?
 Yebo, kodwa abantu lapha babi impela.
-Kubiza malini ukuza lapha enyuvesi? 
+Kubiza malini ukuza lapha enyuvesi?
 Ukuthokoza kuhle.
 Ngivumela abafana ukuhamba namhlanje.
 Umfazi ushaya abantwana ngenduku.
@@ -464,7 +464,7 @@ Sazitheza izinkuni, khonalapha.
 Abafana basebenza ngamandla impela.
 Akagunde izinwele.
 Bayobhala.
-Uneminyaka emingaki?    
+Uneminyaka emingaki?
 Uyafuna ukuhlakula manje.
 Akusemqoka.
 Amajuba mahle, andizela phezulu.
@@ -474,10 +474,10 @@ Ningahleki, thulani bo.
 Abelungu bacelani?
 Aninamali lapha na?
 Ngibone imbongolo nembuzi, nenkunzi, nemvu laphaya.
-Konje ikhofi limnandi na? 
+Konje ikhofi limnandi na?
 Konje uyamhleba umuntu na?
 Siyahlakula.
-Ubani isibongo sakho? 
+Ubani isibongo sakho?
 Uyabiza.
 AmaBhunu namaNgisi maningi.
 Yebo, ngizithenga ngemali.
@@ -775,7 +775,7 @@ Ngiyabona.
 Eduze kwendlu, izikhukhukazi ziningi, Nkosi.
 Ngiyathanda.
 Ningihlupha ngamabomu.
-Basebenzaphi?   
+Basebenzaphi?
 Imigodi mikhulu.
 Ngena manje, mnumzana.
 Musani ukungihlupha, ngiyagula namuhla.
@@ -791,7 +791,7 @@ Yebo, likhona lapha.
 Uyahleka.
 Umzimba umnyama.
 Musani ukuhleba!
-Aphi amakhehla?  
+Aphi amakhehla?
 Hamba manje, uthathe incwadi.
 Uzoletha izinto lapha kusasa.
 Uhleba ngamabomu.
@@ -799,7 +799,7 @@ Ungafundi.
 Ukona kubi impela.
 Umfana muhle.
 Siyambuyisa.
-Nibonani? 
+Nibonani?
 Uphi umshanelo?
 Amadoda laphaya mahle impela.
 Bayahlupha kakhulu.
