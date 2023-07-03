@@ -7,7 +7,7 @@ import secret
 
 
 app = Flask(__name__)
-DATABASE = 'feedback.db'
+DATABASE = secret.DATABASE
 # Set this up for yourself do NOT push to git
 app.secret_key = secret.SECRET_KEY
 
