@@ -12,18 +12,21 @@
 <form action="{{ url_for('feedback') }}" method="post">
   <table border="1">
     <tr id="text_row">
+        <td></td>
         {% for sound in clip_text %}
         <td>{{ sound }}</td>
         {% endfor %}
     </tr>
     <tr id="checkbox_row">
+        <td>Sounds:</td>
         {% for i in range(clip_text|length) %}
         <td><input type='checkbox' id='check_{{ i }}' name='errors' value='{{ i }}'></td>
         {% endfor %}
     </tr>
     <tr id="checkbox_row_tones">
-        {% for i in range(clip_syl|length) %}
-        <td><input type='checkbox' id='check_{{ i }}' name='errors_tone' value='{{ i }}'></td>
+        <td>Tones:</td>
+        {% for i in range(syl_spans|length) %}
+        <td colspan="{{ syl_spans[i] }}"><input type='checkbox' id='syl_{{ i }}' name='errors_tone' value='{{ i }}'></td>
         {% endfor %}
     </tr>
   </table>

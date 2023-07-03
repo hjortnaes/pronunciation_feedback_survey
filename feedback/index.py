@@ -7,7 +7,7 @@ import secret
 
 
 app = Flask(__name__)
-DATABASE = 'feedback.db' #secret.DATABASE
+DATABASE = secret.DATABASE
 # Set this up for yourself do NOT push to git
 app.secret_key = secret.SECRET_KEY
 
@@ -69,16 +69,15 @@ def feedback():
     # Handle form submission
     if request.method == 'POST':
         errors = [int(x) for x in request.form.getlist('errors')]
-        errors_tone = [int(x) for x in request.form.getlist('errors_tone')]
+        errors_tone = [x for x in request.form.getlist('errors_tone')]
         feedback = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
         for x in errors:
             feedback[x] = '0'
-        feedback_tone = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
-        for x in errors_tone:
-            feedback_tone[x] = '0'
+
         # Insert the feedback into the table
         query = f"insert into feedback (clip, grader, scores, scores_tones) " \
-                f"values ('{request.form['clip_path']}', {session['graderid']}, '{''.join(feedback)}', '{''.join(feedback_tones)}');"
+                f"values ('{request.form['clip_path']}', {session['graderid']}, " \
+                f"'{''.join(feedback)}', '{''.join(errors_tone)}');"
         insert_db(query)
 
     # Do following on get and post
@@ -93,7 +92,25 @@ def feedback():
     if not clip:
         return redirect(url_for('finished'))
 
-    return render_template('feedback.html', org_text = clip[1] ,clip_path = clip[0], clip_text = syllablize(clip[1])[1], clip_syl = syllablize(clip[1])[0])
+    clip_syl, clip_text = syllablize(clip[1])
+
+    spans = []
+    j = 0
+    for s in clip_syl:
+        x = 0
+        y = 0
+        if not s:
+            j += 1
+            y += 1
+        else:
+            while x < len(s):
+                x += len(clip_text[j])
+                j += 1
+                y += 1
+        spans.append(y)
+
+    return render_template('feedback.html', org_text = clip[1], clip_path = clip[0], clip_text = clip_text,
+                           syl_spans = spans)
 
 
 @app.route('/finished/')
