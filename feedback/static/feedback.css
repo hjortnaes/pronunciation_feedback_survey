@@ -7,9 +7,45 @@ td {
 body {
     text-align: center;
     vertical-align: middle;
+    font-size: x-large;
+}
+
+input[type="checkbox"] {
+  /* ...existing styles */
+  display: grid;
+  place-content: center;
+}
+
+input[type="checkbox"]::before {
+  content: "";
+  width: 1em;
+  height: 1em;
+}
+
+input[type="checkbox"]:checked::before {
+    transform: scale(1);
+    background-color: #8B0000;
+    cursor: pointer;
 }
 
 table {
     margin-left: auto;
     margin-right: auto;
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+td, th {
+  position: relative;
+}
+td:hover::after,
+th:hover::after {
+  content: "";
+  position: absolute;
+  background-color: lightgray;
+  left: 0;
+  top: -5000px;
+  height: 10000px;
+  width: 100%;
+  z-index: -1;
 }
