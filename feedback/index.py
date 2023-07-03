@@ -84,7 +84,7 @@ def feedback():
 
     # This (should) gets all clips that have not been graded by the session grader
     query = f'select c.* from clips c where filename not in ' \
-            f'(select filename from feedback where grader = {session["graderid"]}) ' \
+            f'(select clip from feedback where grader = {session["graderid"]}) ' \
             f'order by random() limit 1;'
     clip = query_db(query, one=True)
     # (filename, sentence, speakerid)
