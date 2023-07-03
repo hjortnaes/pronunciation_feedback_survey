@@ -7,7 +7,7 @@
 </head>
 <body style="margin: auto">
 <br><br>
-<p>{{ ''.join(clip_text) }}</p>
+<p>{{ ''.join(org_text) }}</p>
 <br>
 <form action="{{ url_for('feedback') }}" method="post">
   <table border="1">
@@ -19,6 +19,11 @@
     <tr id="checkbox_row">
         {% for i in range(clip_text|length) %}
         <td><input type='checkbox' id='check_{{ i }}' name='errors' value='{{ i }}'></td>
+        {% endfor %}
+    </tr>
+    <tr id="checkbox_row_tones">
+        {% for i in range(clip_syl|length) %}
+        <td><input type='checkbox' id='check_{{ i }}' name='errors_tone' value='{{ i }}'></td>
         {% endfor %}
     </tr>
   </table>
@@ -41,14 +46,18 @@ function update_table(text) {
   // reset the rows
   let text_row = document.getElementById("text_row");
   let checkbox_row = document.getElementById("checkbox_row");
+  let checkbox_row_tones = document.getElementById("checkbox_row_tones");
   text_row.innerHTML = "";
   checkbox_row.innerHTML = "";
+  checkbox_row_tones.innerHTML = "";
+
 
   for (let i = 0; i < text.length; i++) {
     let error_box = ""
     if (text[i] === " ") {
       let check_id = "char" + i.toString();
       let error_box = "<input type='checkbox' id='" + check_id + "' name='errors' value='" + i.toString() + "'>";
+      let error_box_tones = "<input type='checkbox' id='" + check_id + "' name='errors_tones' value='" + i.toString() + "'>";
     }
     // for (let j = 1; j > 0; j--) {
     //   error_box += "<br><input type='radio' id='" + j + "' name='" + check_id + "' value='" + j + "'>";
@@ -56,6 +65,7 @@ function update_table(text) {
 
     text_row.innerHTML += "<td>" + text[i] + "</td>";
     checkbox_row.innerHTML += "<td>" + error_box + "</td>";
+    checkbox_row_tones.innerHTML += "<td>" + error_box_tones + "</td>";
   }
 }
 // update_table({{ clip_text }})

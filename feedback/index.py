@@ -7,7 +7,7 @@ import secret
 
 
 app = Flask(__name__)
-DATABASE = secret.DATABASE
+DATABASE = 'feedback.db' #secret.DATABASE
 # Set this up for yourself do NOT push to git
 app.secret_key = secret.SECRET_KEY
 
@@ -69,12 +69,16 @@ def feedback():
     # Handle form submission
     if request.method == 'POST':
         errors = [int(x) for x in request.form.getlist('errors')]
+        errors_tone = [int(x) for x in request.form.getlist('errors_tone')]
         feedback = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
         for x in errors:
             feedback[x] = '0'
+        feedback_tone = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
+        for x in errors_tone:
+            feedback_tone[x] = '0'
         # Insert the feedback into the table
-        query = f"insert into feedback (clip, grader, scores) " \
-                f"values ('{request.form['clip_path']}', {session['graderid']}, '{''.join(feedback)}');"
+        query = f"insert into feedback (clip, grader, scores, scores_tones) " \
+                f"values ('{request.form['clip_path']}', {session['graderid']}, '{''.join(feedback)}', '{''.join(feedback_tones)}');"
         insert_db(query)
 
     # Do following on get and post
@@ -89,7 +93,7 @@ def feedback():
     if not clip:
         return redirect(url_for('finished'))
 
-    return render_template('feedback.html', clip_path = clip[0], clip_text = syllablize(clip[1])[1])
+    return render_template('feedback.html', org_text = clip[1] ,clip_path = clip[0], clip_text = syllablize(clip[1])[1], clip_syl = syllablize(clip[1])[0])
 
 
 @app.route('/finished/')

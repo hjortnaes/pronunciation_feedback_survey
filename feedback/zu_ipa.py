@@ -12,14 +12,15 @@ def syllablize(sent):
     syllables = []
     sounds = []
     for word in sentence:
-        word = word.lower()
+        word = word.lower().replace(",","")
         syllable = re.sub(r"(a|e|i|o|u)(m(?=[^(a|e|i|o|u|g|y|t|c|x|m)]))?(n(?=[^(a|e|i|o|u|g|y|c|x)]))?",
                           "\g<1>\g<2>\g<3>.", word)
         sound = re.sub(r"(n(gx|gq|gc|g|x|c|y)?|(k|t|p|x|c|q)(h)?|a|e|i|o|u|l(w)?|m|b(h)?|h(l|h)?|dl|sh|mm|[a-z])",
                        "\g<1>.", word) + ' '
-        syllables.append(syllable)
+        #syllables.append(syllable)
+        syllables.extend(syllable.split('.'))
         sounds.extend(sound.split('.'))
-    return syllables, sounds[:-1]
+    return syllables[:-1], sounds[:-1]
 
 
 # sent_file = open(sys.argv[1], 'r')
