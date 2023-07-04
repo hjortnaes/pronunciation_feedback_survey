@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,11 +11,11 @@
 <p>{{ ''.join(org_text) }}</p>
 <br>
 <form action="{{ url_for('feedback') }}" method="post">
-  <table border="1">
+  <table border="1" id="feedback_table">
     <tr id="text_row">
         <td></td>
-        {% for sound in clip_text %}
-        <td>{{ sound }}</td>
+        {% for i in range(clip_text|length) %}
+        <td id="sound_{{ i }}">{{ clip_text[i] }}</td>
         {% endfor %}
     </tr>
     <tr id="checkbox_row">
@@ -27,6 +28,12 @@
         <td>Tones:</td>
         {% for i in range(syl_spans|length) %}
         <td colspan="{{ syl_spans[i] }}"><input type='checkbox' id='syl_{{ i }}' name='errors_tone' value='{{ i }}'></td>
+        {% endfor %}
+    </tr>
+    <tr id="insert_row">
+        <td onclick="add_column(this)">Click to insert a column right:<br>Click added column to delete</td>
+        {% for i in range(clip_text|length) %}
+            <td onclick='add_column(this)'>>></td>
         {% endfor %}
     </tr>
   </table>
@@ -44,6 +51,22 @@
 </body>
 
 <script defer>
+    function add_column(box) {
+        let index = $(box).index();
+        $('#text_row td').eq(index).after("<td></td>");
+        $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
+        $('#checkbox_row_tones td').eq(index).after("<td></td>")
+        $(box).after("<td onclick='remove_col(this)'></td>")
+    }
+
+    function remove_col(box) {
+        let index = $(box).index()
+        $('#text_row td').eq(index).remove();
+        $('#checkbox_row td').eq(index).remove();
+        $('#checkbox_row_tones td').eq(index).remove();
+        $('#insert_row td').eq(index).remove();
+    }
+
 // DEPRECATED
 function update_table(text) {
   // reset the rows

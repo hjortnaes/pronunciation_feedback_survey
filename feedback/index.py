@@ -70,6 +70,7 @@ def feedback():
     if request.method == 'POST':
         errors = [int(x) for x in request.form.getlist('errors')]
         errors_tone = [x for x in request.form.getlist('errors_tone')]
+        errors_insert = request.form.getlist('inserts')
         feedback = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
         for x in errors:
             feedback[x] = '0'
