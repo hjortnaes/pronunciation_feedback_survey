@@ -69,16 +69,16 @@ def feedback():
     # Handle form submission
     if request.method == 'POST':
         errors = [int(x) for x in request.form.getlist('errors')]
-        errors_tone = [x for x in request.form.getlist('errors_tone')]
-        errors_insert = request.form.getlist('inserts')
+        errors_tone = str([x for x in request.form.getlist('errors_tone')]).replace("'", '"')
+        errors_insert = str(request.form.getlist('inserts')).replace("'", '"')
         feedback = ['1' for _ in range(len(ast.literal_eval(request.form['clip_text'])))]
         for x in errors:
             feedback[x] = '0'
 
         # Insert the feedback into the table
-        query = f"insert into feedback (clip, grader, scores, scores_tones) " \
+        query = f"insert into feedback (clip, grader, scores, scores_tones, scores_inserts) " \
                 f"values ('{request.form['clip_path']}', {session['graderid']}, " \
-                f"'{''.join(feedback)}', '{''.join(errors_tone)}');"
+                f"'{''.join(feedback)}', '{errors_tone}', '{errors_insert}');"
         insert_db(query)
 
     # Do following on get and post

@@ -12,7 +12,7 @@ body {
 
 input[type="checkbox"] {
   /* ...existing styles */
-  display: grid;
+  /*display: grid;*/
   place-content: center;
 }
 
@@ -48,4 +48,12 @@ th:hover::after {
   height: 10000px;
   width: 100%;
   z-index: -1;
+}
+
+.wrap {
+    white-space: nowrap;
+}
+
+.wrap > * {
+    display: inline-block;
 }

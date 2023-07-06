@@ -31,9 +31,9 @@
         {% endfor %}
     </tr>
     <tr id="insert_row">
-        <td onclick="add_column(this)">Click to insert a column right:<br>Click added column to delete</td>
+        <td class="wrap"><div onclick="add_column(this)">Click >> to indicate an insertion right:<br>Click added checkbox to delete</div></td>
         {% for i in range(clip_text|length) %}
-            <td onclick='add_column(this)'>>></td>
+        <td class="wrap"><div onclick='add_column(this)'>>></div></td>
         {% endfor %}
     </tr>
   </table>
@@ -52,19 +52,21 @@
 
 <script defer>
     function add_column(box) {
-        let index = $(box).index();
-        $('#text_row td').eq(index).after("<td></td>");
-        $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
-        $('#checkbox_row_tones td').eq(index).after("<td></td>")
-        $(box).after("<td onclick='remove_col(this)'></td>")
+        let index = $(box).parent().index();
+        // $('#text_row td').eq(index).after("<td></td>");
+        // $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
+        // $('#checkbox_row_tones td').eq(index).after("<td></td>")
+        // $(box).after("<td onclick='remove_col(this)'></td>")
+        $(box).after("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + index + "' name='inserts' value='" + index + "'>")
     }
 
     function remove_col(box) {
-        let index = $(box).index()
-        $('#text_row td').eq(index).remove();
-        $('#checkbox_row td').eq(index).remove();
-        $('#checkbox_row_tones td').eq(index).remove();
-        $('#insert_row td').eq(index).remove();
+        // let index = $(box).index()
+        // $('#text_row td').eq(index).remove();
+        // $('#checkbox_row td').eq(index).remove();
+        // $('#checkbox_row_tones td').eq(index).remove();
+        // $('#insert_row td').eq(index).remove();
+        $(box).remove();
     }
 
 // DEPRECATED
