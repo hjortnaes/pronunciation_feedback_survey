@@ -31,10 +31,11 @@
         {% endfor %}
     </tr>
     <tr id="insert_row">
-        <td class="wrap"><div onclick="add_column(this)">Click >> to indicate an insertion right:<br>Click added checkbox to delete</div></td>
-        {% for i in range(clip_text|length) %}
-        <td class="wrap"><div onclick='add_column(this)'>>></div></td>
+        <td class="wrap">Click << to indicate an insertion left:<br>Click added checkbox to delete</td>
+        {% for i in range(clip_text|length -1) %}
+        <td class="wrap"><div onclick='add_column(this)'><<</div></td>
         {% endfor %}
+        <td class="wrap"><div onclick='add_column(this)'><<</div> <div onclick="add_column(this, true)">>></div></td>
     </tr>
   </table>
   <br>
@@ -51,13 +52,17 @@
 </body>
 
 <script defer>
-    function add_column(box) {
+    function add_column(box, after=false) {
         let index = $(box).parent().index();
         // $('#text_row td').eq(index).after("<td></td>");
         // $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
         // $('#checkbox_row_tones td').eq(index).after("<td></td>")
         // $(box).after("<td onclick='remove_col(this)'></td>")
-        $(box).after("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + index + "' name='inserts' value='" + index + "'>")
+        if (after) {
+            $(box).after("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + index + "' name='inserts' value='" + index + "'>")
+            return
+        }
+        $(box).before("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + (index - 1).toString() + "' name='inserts' value='" + (index - 1).toString() + "'>")
     }
 
     function remove_col(box) {
@@ -70,32 +75,32 @@
     }
 
 // DEPRECATED
-function update_table(text) {
-  // reset the rows
-  let text_row = document.getElementById("text_row");
-  let checkbox_row = document.getElementById("checkbox_row");
-  let checkbox_row_tones = document.getElementById("checkbox_row_tones");
-  text_row.innerHTML = "";
-  checkbox_row.innerHTML = "";
-  checkbox_row_tones.innerHTML = "";
-
-
-  for (let i = 0; i < text.length; i++) {
-    let error_box = ""
-    if (text[i] === " ") {
-      let check_id = "char" + i.toString();
-      let error_box = "<input type='checkbox' id='" + check_id + "' name='errors' value='" + i.toString() + "'>";
-      let error_box_tones = "<input type='checkbox' id='" + check_id + "' name='errors_tones' value='" + i.toString() + "'>";
-    }
-    // for (let j = 1; j > 0; j--) {
-    //   error_box += "<br><input type='radio' id='" + j + "' name='" + check_id + "' value='" + j + "'>";
-    // }
-
-    text_row.innerHTML += "<td>" + text[i] + "</td>";
-    checkbox_row.innerHTML += "<td>" + error_box + "</td>";
-    checkbox_row_tones.innerHTML += "<td>" + error_box_tones + "</td>";
-  }
-}
+// function update_table(text) {
+//   // reset the rows
+//   let text_row = document.getElementById("text_row");
+//   let checkbox_row = document.getElementById("checkbox_row");
+//   let checkbox_row_tones = document.getElementById("checkbox_row_tones");
+//   text_row.innerHTML = "";
+//   checkbox_row.innerHTML = "";
+//   checkbox_row_tones.innerHTML = "";
+//
+//
+//   for (let i = 0; i < text.length; i++) {
+//     let error_box = ""
+//     if (text[i] === " ") {
+//       let check_id = "char" + i.toString();
+//       let error_box = "<input type='checkbox' id='" + check_id + "' name='errors' value='" + i.toString() + "'>";
+//       let error_box_tones = "<input type='checkbox' id='" + check_id + "' name='errors_tones' value='" + i.toString() + "'>";
+//     }
+//     // for (let j = 1; j > 0; j--) {
+//     //   error_box += "<br><input type='radio' id='" + j + "' name='" + check_id + "' value='" + j + "'>";
+//     // }
+//
+//     text_row.innerHTML += "<td>" + text[i] + "</td>";
+//     checkbox_row.innerHTML += "<td>" + error_box + "</td>";
+//     checkbox_row_tones.innerHTML += "<td>" + error_box_tones + "</td>";
+//   }
+// }
 // update_table({{ clip_text }})
 // update_table({{clip_text}})
 </script>
