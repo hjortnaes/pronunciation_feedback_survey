@@ -21,21 +21,26 @@
     <tr id="checkbox_row">
         <td>Sounds:</td>
         {% for i in range(clip_text|length) %}
-        <td><input type='checkbox' id='check_{{ i }}' name='errors' value='{{ i }}'></td>
+        <td><label class="checklabel"><input type='checkbox' id='check_{{ i }}' name='errors' value='{{ i }}'><span></span>
+            </label></td>
         {% endfor %}
     </tr>
     <tr id="checkbox_row_tones">
         <td>Tones:</td>
         {% for i in range(syl_spans|length) %}
-        <td colspan="{{ syl_spans[i] }}"><input type='checkbox' id='syl_{{ i }}' name='errors_tone' value='{{ i }}'></td>
+        <td colspan="{{ syl_spans[i] }}"><label class='checklabel'><input type='checkbox' id='syl_{{ i }}' name='errors_tone' value='{{ i }}'><span></span>
+        </label></td>
         {% endfor %}
     </tr>
     <tr id="insert_row">
-        <td class="wrap">Click << to indicate an insertion left:<br>Click added checkbox to delete</td>
+        <td>Insertion left:</td>
         {% for i in range(clip_text|length -1) %}
-        <td class="wrap"><div onclick='add_column(this)'><<</div></td>
+        <td><label class='checklabel'><input type='checkbox' id='inserted_{{ i }}' name='inserts' value='{{ i }}'><span></span> <<</label></td>
         {% endfor %}
-        <td class="wrap"><div onclick='add_column(this)'><<</div> <div onclick="add_column(this, true)">>></div></td>
+        <td>
+            <label class='checklabel'><input type='checkbox' id='inserted_{{ clip_text|length }}' name='inserts' value='{{ clip_text|length - 1 }}'><span></span> <<</label>
+            <label class='checklabel'><input type='checkbox' id='inserted_{{ clip_text|length + 1 }}' name='inserts' value='{{ clip_text|length }}'><span></span> >></label>
+        </td>
     </tr>
   </table>
   <br>
@@ -52,27 +57,27 @@
 </body>
 
 <script defer>
-    function add_column(box, after=false) {
-        let index = $(box).parent().index();
-        // $('#text_row td').eq(index).after("<td></td>");
-        // $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
-        // $('#checkbox_row_tones td').eq(index).after("<td></td>")
-        // $(box).after("<td onclick='remove_col(this)'></td>")
-        if (after) {
-            $(box).after("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + index + "' name='inserts' value='" + index + "'>")
-            return
-        }
-        $(box).before("<input type='checkbox' checked onclick='remove_col(this)' id='inserted_" + (index - 1).toString() + "' name='inserts' value='" + (index - 1).toString() + "'>")
-    }
+    // function add_column(box, after=false) {
+    //     let index = $(box).parent().index();
+    //     // $('#text_row td').eq(index).after("<td></td>");
+    //     // $('#checkbox_row td').eq(index).after("<td onclick='remove_col(this)'><input type='checkbox' checked id='inserted_{{ i }}' name='inserts' value='" + index + "'></td>");
+    //     // $('#checkbox_row_tones td').eq(index).after("<td></td>")
+    //     // $(box).after("<td onclick='remove_col(this)'></td>")
+    //     if (after) {
+    //         $(box).after("<label class='checklabel' onclick='remove_col(this)'></label>")
+    //         return
+    //     }
+    //     $(box).before("<label class='checklabel' onclick='remove_col(this)'><input type='checkbox' checked id='inserted_" + (index - 1).toString() + "' name='inserts' value='" + (index - 1).toString() + "'><span></span></label>")
+    // }
 
-    function remove_col(box) {
-        // let index = $(box).index()
-        // $('#text_row td').eq(index).remove();
-        // $('#checkbox_row td').eq(index).remove();
-        // $('#checkbox_row_tones td').eq(index).remove();
-        // $('#insert_row td').eq(index).remove();
-        $(box).remove();
-    }
+    // function remove_col(box) {
+    //     // let index = $(box).index()
+    //     // $('#text_row td').eq(index).remove();
+    //     // $('#checkbox_row td').eq(index).remove();
+    //     // $('#checkbox_row_tones td').eq(index).remove();
+    //     // $('#insert_row td').eq(index).remove();
+    //     $(box).remove();
+    // }
 
 // DEPRECATED
 // function update_table(text) {
