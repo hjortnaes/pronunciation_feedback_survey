@@ -52,6 +52,8 @@
     <input type="text" id="clip_path" name="clip_path" value="{{ clip_path }}" hidden>
     <input type="text" id="clip_text" name="clip_text" value="{{ clip_text }}" hidden>
   <input type="submit" value="Submit">
+  <br><br>
+  <input type="submit" value="Skip" formaction="{{ url_for('skip') }}" formmethod="post">
 </form>
 
 </body>

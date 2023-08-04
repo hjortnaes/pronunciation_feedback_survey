@@ -114,6 +114,22 @@ def feedback():
                            syl_spans = spans)
 
 
+@app.route('/skip/', methods=['POST'])
+def skip():
+
+    if 'graderid' not in session:  # make sure that a graderid is always active
+        return redirect(url_for('index'))
+
+    if request.method == 'POST':  # This should only be a post
+
+        # Insert the feedback into the table
+        query = f"insert into feedback (clip, grader, scores) " \
+                f"values ('{request.form['clip_path']}', {session['graderid']}, 'SKIPPED');"
+        insert_db(query)
+
+    return redirect(url_for('feedback'))
+
+
 @app.route('/finished/')
 def finished():
     return render_template('finished.html', message = "We couldn't find any more clips to score, so you are finished! "
